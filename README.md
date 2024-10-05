@@ -94,6 +94,27 @@ GANs are great at creating synthetic data, which means they can generate plausib
 - Web3.js for wallet integration.
 - React.js for web app
 
+Starting node on hardhat:
+
+![Screenshot 2024-10-05 103319](https://github.com/user-attachments/assets/d9c81da2-330e-41a2-a027-1c21fa28137f)
+
+Starting WebApp:
+
+![Screenshot 2024-10-05 103350](https://github.com/user-attachments/assets/60bbb56c-0d6a-40d3-a0e1-1fdc8b7fa219)
+
+Minting new company using metamask:
+
+![Screenshot 2024-10-05 103201](https://github.com/user-attachments/assets/6c4ce1dc-f8fc-4edc-af14-3c07b75ff231)
+
+![Screenshot 2024-10-05 103216](https://github.com/user-attachments/assets/09569266-dfba-411a-98ab-88e90e2e26fe)
+
+Valuation update:
+
+
+![Screenshot 2024-10-05 103231](https://github.com/user-attachments/assets/43707f4e-35ec-4fa7-9c16-479ccec3366e)
+
+![Screenshot 2024-10-05 103237](https://github.com/user-attachments/assets/00c1c09e-03be-42bc-912d-21046619cc53)
+
 ---
 
 ## *AI Model*
