@@ -1,6 +1,6 @@
 # *Vyapaar.AI* - Your Gateway to Startup Investments
 
-Welcome to *Vyapaar.AI, where **blockchain technology* meets *AI-driven financial analysis* for a seamless and transparent investment experience. Here, we empower investors to back promising startups, with complete transparency and security, all while providing predictive insights through advanced AI models.
+Welcome to *Vyapaar.AI, where **blockchain technology** meets AI-driven financial analysis* for a seamless and transparent investment experience. Here, we empower investors to back promising startups, with complete transparency and security, all while providing predictive insights through advanced AI models.
 
 ---
 
@@ -14,12 +14,8 @@ Welcome to *Vyapaar.AI, where **blockchain technology* meets *AI-driven financia
 6. [Blockchain Integration](#blockchain-integration)
 7. [Installation Guide](#installation-guide)
 8. [Usage](#usage)
-9. [API Documentation](#api-documentation)
-10. [Security](#security)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Contact](#contact)
-
+9. [Security](#security)
+10. [License](#license)
 ---
 
 ## *Introduction*
@@ -44,6 +40,8 @@ The image outlines the flow of information between companies, users, and smart c
 ---
 
 ## *How It Works*
+
+![FlowChart](https://github.com/user-attachments/assets/0d6c73a3-0972-4384-9c60-1afb8669b09c)
 
 ### *Company Side*
 1. *Company Registration*: Startups fill in their relevant details.
@@ -74,9 +72,9 @@ The image outlines the flow of information between companies, users, and smart c
 - Web scraping integrated to fetch market data.
 
 ### *Blockchain*
-- Ethereum (ERC-20) for tokenization.
-- Solidity for smart contract development.
+- Solidity for smart contract development including Minting,Updation, Dynamic Valuation and more.
 - Web3.js for wallet integration.
+- React.js for web app
 
 ---
 
@@ -132,11 +130,6 @@ The platform integrates blockchain in several key ways:
 - *For Investors*: Browse available startups, leverage AI insights, invest using tokens, and monitor investments through the dashboard.
 - *Token Transfer: Easily transfer tokens between users through **Khatta*, your integrated web3 wallet.
 
----
-
-## *API Documentation*
-
-Detailed API documentation for interacting with the platform’s AI model, blockchain components, and investment tracking can be found [here](https://api-docs.vyapaar-ai.com).
 
 ---
 
@@ -147,27 +140,14 @@ Detailed API documentation for interacting with the platform’s AI model, block
 - *Multi-Factor Authentication (MFA)*: For secure account access.
 - *Data Encryption*: Secure data handling and storage.
 
----
-
-## *Contributing*
-
-Interested in contributing? We welcome your input! Fork this repo, make your changes, and submit a pull request.
 
 ---
 
 ## *License*
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/vyapaar-ai/license.md) file for more details.
+This project is licensed under the MIT License.
 
 ---
 
-## *Contact*
-
-For support, reach out to us:
-- Email: support@vyapaar.ai
-- Twitter: [@VyapaarAI](https://twitter.com/vyapaarai)
-- Website: [www.vyapaar.ai](https://www.vyapaar.ai)
-
----
 
 This structure integrates the concepts and flows presented in the image, covering both company and user perspectives, AI analysis, and blockchain functionality.
