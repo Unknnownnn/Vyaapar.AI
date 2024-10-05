@@ -12,7 +12,7 @@ Vyapaar seeks to revolutionize how retail investors approach startup investments
 Project Overview
 
 This project is a Startup Success Prediction Model that combines Generative Adversarial Networks (GANs) and Reinforcement Learning (RL) to forecast the future success of startups. The model predicts startup success probabilities based on historical data and simulates various startup scenarios, including actions like raising funds, expanding markets, and cost management. The system uses GANs to generate future outcomes and RL to optimize startup strategies dynamically.
-
+<br>
 ## *Table of Contents*
 
 1. [Introduction](#introduction)
