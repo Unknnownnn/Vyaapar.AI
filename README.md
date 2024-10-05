@@ -74,7 +74,9 @@ The image outlines the flow of information between companies, users, and smart c
 - Python for AI model and data handling.
 
 
-### *AI & ML*
+### *AI & ML*!
+[AI 1](https://github.com/user-attachments/assets/78936327-cf55-4c1a-ac33-700be8c80ccc)
+
 - TensorFlow/PyTorch for predictive modeling.
 - Web scraping integrated to fetch market data.
 
