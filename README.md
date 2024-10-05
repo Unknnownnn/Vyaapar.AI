@@ -64,10 +64,14 @@ The image outlines the flow of information between companies, users, and smart c
 - React.js for user interfaces.
 - HTML/CSS/JavaScript.
 - ![Frontend](https://github.com/user-attachments/assets/b6d394c9-0e03-4f9b-8a29-2e9d6b41f781)
+- ![Vyaapar.AI HomePage](https://github.com/user-attachments/assets/1775d174-cb00-4747-9048-9a6cc09d2cfd)
+- ![Vyaapar.AI Portfolio Page](https://github.com/user-attachments/assets/8501707c-0e09-412f-b23e-05e392811970)
+- ![Vyaapar.AI Companies](https://github.com/user-attachments/assets/274da1bc-cc58-4c59-8526-7582aea652f5)
 
 ### *Backend*
 - Node.js for server-side logic.
 - Python for AI model and data handling.
+
 
 ### *AI & ML*
 - TensorFlow/PyTorch for predictive modeling.
