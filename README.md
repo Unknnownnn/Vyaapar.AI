@@ -1,3 +1,4 @@
+<p align='center'>![VyaaparAI](https://github.com/user-attachments/assets/51b3fdbc-ea29-4bc2-8c6f-30f8cbe70c2f)</p>
 # *Vyapaar.AI* - Your Gateway to Startup Investments
 
 Welcome to *Vyapaar.AI, where **blockchain technology** meets AI-driven financial analysis* for a seamless and transparent investment experience. Here, we empower investors to back promising startups, with complete transparency and security, all while providing predictive insights through advanced AI models.
