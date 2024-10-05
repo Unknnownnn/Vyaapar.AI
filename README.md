@@ -199,6 +199,9 @@ Scikit-learn Model Tools
 ![scklearnusingoneAPIinVyaapar](https://github.com/user-attachments/assets/fc99868d-abdc-4bca-b2e3-63ce4f746d28)
 
 
+![oneAPI](https://github.com/user-attachments/assets/34311be0-df15-4eb4-ae3b-c5d88163faa0)
+
+
 ## *Installation Guide*
 
 ### *Prerequisites*
