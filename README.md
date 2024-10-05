@@ -41,7 +41,7 @@ The image outlines the flow of information between companies, users, and smart c
 
 ## *How It Works*
 
-![FlowChart](https://github.com/user-attachments/assets/9628977c-a964-4762-9daa-ffbfd5fce786)
+![FlowChart](https://github.com/user-attachments/assets/0d6c73a3-0972-4384-9c60-1afb8669b09c)
 
 ### *Company Side*
 1. *Company Registration*: Startups fill in their relevant details.
