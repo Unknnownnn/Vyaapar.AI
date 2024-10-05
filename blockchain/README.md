@@ -1,6 +1,7 @@
 # Starting the Program
 
-## cd test
+
+## `cd test`
 
 In the project directory, run:
 
@@ -12,5 +13,6 @@ Runs the node command and depoly command in different terminals.\
 The Hardhat runs on [http://localhost:8454].
 The local blockchain is now started.
 
-## cd ..
-## cd vyfn
+Now run
+## `cd ..`
+## `cd vyfn`
