@@ -195,6 +195,10 @@ The platform integrates blockchain in several key ways:
 | 2   | Intel® OpenVINO™                   | Accelerates the implementation of Q-LoRA using OpenVINO                     |
 | 3   | Intel® DevCloud                    | Offers a valuable environment for the project                               |
 
+Scikit-learn Model Tools
+![scklearnusingoneAPIinVyaapar](https://github.com/user-attachments/assets/fc99868d-abdc-4bca-b2e3-63ce4f746d28)
+
+
 ## *Installation Guide*
 
 ### *Prerequisites*
