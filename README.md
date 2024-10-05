@@ -187,12 +187,14 @@ The platform integrates blockchain in several key ways:
 
 ---
 
-⚡ Intel OneAPI Tools
-Intel Tool-Kits Used
-Sno	Intel Product Used	Description
-1	Intel® Distribution for Python®	We are using this toolkit as it provides optimized Python libraries for numerical computing and data manipulation
-2	Intel® OpenVINO™	We are making the process of implementing Q-LoRA faster using OpenVINO
-3	Intel® DevCloud	DevCloud offers a valuable environment for our project
+## ⚡ Intel OneAPI Tools
+
+| Sno | Intel Product Used                 | Description                                                                 |
+|-----|------------------------------------|-----------------------------------------------------------------------------|
+| 1   | Intel® Distribution for Python®    | Provides optimized Python libraries for numerical computing and data manipulation |
+| 2   | Intel® OpenVINO™                   | Accelerates the implementation of Q-LoRA using OpenVINO                     |
+| 3   | Intel® DevCloud                    | Offers a valuable environment for the project                               |
+
 ## *Installation Guide*
 
 ### *Prerequisites*
