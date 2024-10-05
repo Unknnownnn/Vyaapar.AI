@@ -1,0 +1,50 @@
+const companyDetails = await box.getCompanyDetails
+nonce++; // Increment for the next transaction
+});
+    // ... other transaction parameters
+    nonce: nonce,
+const tx = await contract.yourMethod({
+let nonce = await provider.getTransactionCount(signerAddress);
+const currentNonce = await provider.getTransaction
+console.log(companyDetails);
+const companyDetails = await box.getCompanyDetails(0);
+await box.completeMilestone(0);
+await box.updateValuation(0, 200000);  // Assuming tokenId = 0 for first company
+await box.mintCompany("TechStartup", 6000);
+const box = await Box.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3");
+const Box = await ethers.getContractFactory("Box");
+const box1 = await Box.attach(0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0);
+const box = await Box.attach(0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0);
+const Box = await ethers.getContractFactory("Box");
+const box = await Box,attach(0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0);
+const box = await Box.attach(0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0);
+const Box = await ethers.getContractFactory("Box");
+mapping(string => Company) public companies;
+console.log(comup);
+console.log(comp);
+console.log(company);
+const comup = await contract.getCompanyDetails("TECHPOR");
+const comp = await contract.getCompanyDetails("TECHPOR");
+const company = await contract.getCompanyDetails("TECHPOR");
+const company = await contract.getCompany("TECHPOR");
+const contract = await ethers.getContractAt("TECHPOR", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+const contract = await ethers.getContractAt("YourContractName", "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+await box.mintCompany("TECHPOR", 100);
+await box.updateValuation(0, 2230);
+console.log(box);
+console.log(`Name: ${companyDetails[0]}, Valuation: ${companyDetails[1]}, Milestones: ${companyDetails[2]}`);
+const companyDetails = await box.getCompanyDetails(0);
+await box.completeMilestone(0);
+await box.updateValuation(0, 200000);
+await box.mintCompany("MyNew", 100);
+console.log(box);
+const box = await Box.attach("0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512");
+console.log(box);
+const Box = await ethers.getContractFactory("Box");
+console.log(box);
+const Box = await ethers.getContractFactory("Box");console.log(box);
+const box = Box.attach("0x5fbdb2315678afecb367f032d93f642f64180aa3");
+await box.mintCompany("Helsd",10);
+const box = Box.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const box = await Box.attach(0x5FbDB2315678afecb367f032d93F642f64180aa3);
+const Box = await ethers.getContractFactory("Box");
