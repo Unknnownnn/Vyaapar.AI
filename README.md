@@ -14,12 +14,8 @@ Welcome to *Vyapaar.AI, where **blockchain technology** meets AI-driven financia
 6. [Blockchain Integration](#blockchain-integration)
 7. [Installation Guide](#installation-guide)
 8. [Usage](#usage)
-9. [API Documentation](#api-documentation)
-10. [Security](#security)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Contact](#contact)
-
+9. [Security](#security)
+10. [License](#license)
 ---
 
 ## *Introduction*
@@ -144,11 +140,6 @@ The platform integrates blockchain in several key ways:
 - *Multi-Factor Authentication (MFA)*: For secure account access.
 - *Data Encryption*: Secure data handling and storage.
 
----
-
-## *Contributing*
-
-Interested in contributing? We welcome your input! Fork this repo, make your changes, and submit a pull request.
 
 ---
 
