@@ -99,13 +99,12 @@ The platform integrates blockchain in several key ways:
 ## *Installation Guide*
 
 ### *Prerequisites*
-- Node.js, Python, Metamask, Docker.
+- Node.js, Python, Metamask, HardHat, React.js, Web3.js.
 
 ### *Setup*
 1. *Clone the repository*:
    bash
-   git clone https://github.com/vyapaar-ai/investment-platform.git
-   cd investment-platform
+   git clone [https://github.com/Unknnownnn/Vyaapar.ai_oneAPI_hack_kpr]
    
 2. *Install dependencies*:
    bash
@@ -113,13 +112,10 @@ The platform integrates blockchain in several key ways:
    pip install -r requirements.txt
    
 3. *Setup environment variables* for API keys, blockchain access, etc.
+   
 4. *Start the application*:
    bash
    npm run start
-   
-5. *Deploy Smart Contracts* (for blockchain integration):
-   bash
-   truffle migrate --network development
    
 
 ---
@@ -137,9 +133,7 @@ The platform integrates blockchain in several key ways:
 
 *Vyapaar.AI* prioritizes:
 - *Blockchain Ledger*: Immutable and transparent transaction records.
-- *Multi-Factor Authentication (MFA)*: For secure account access.
 - *Data Encryption*: Secure data handling and storage.
-
 
 ---
 
