@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Details | Firebase</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <form action="" id="contactForm"> <!-- Changed ID here -->
+            <div class="alert">Your message sent</div>
+
+            <div class="inputBox">
+                <input type="text" id="name" placeholder="Your Name" /> <!-- Added Name field -->
+            </div>
+
+            <div class="inputBox">
+                <input type="email" id="emailid" placeholder="Your Email" /> <!-- Added Email field -->
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="companyName" placeholder="Company Name" />
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="headquarters" placeholder="Headquarters" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="employees" placeholder="Employees" />
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="industry" placeholder="Industry" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="foundedAt" placeholder="Founded At" />
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="status" placeholder="Status" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="totalFunding" placeholder="Total Funding" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="fundingRounds" placeholder="Funding Rounds" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="acquisitions" placeholder="Number of Acquisitions" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="fyRevenue" placeholder="FY 2022-23 Revenue" />
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="profitLoss" placeholder="Profit/Loss" />
+            </div>
+
+            <div class="inputBox">
+                <input type="text" id="latestFundingRound" placeholder="Latest Funding Round" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="fyExpenses" placeholder="FY 2022-23 Expenses" />
+            </div>
+
+            <div class="inputBox">
+                <input type="number" id="netCashFlow" placeholder="Net Cash Flow From Operations" />
+            </div>
+
+            <div class="inputBox">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+    <script src="./mail.js"></script>
+</body>
+
+</html>
