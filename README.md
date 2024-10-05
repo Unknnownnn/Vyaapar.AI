@@ -74,9 +74,9 @@ The image outlines the flow of information between companies, users, and smart c
 - Web scraping integrated to fetch market data.
 
 ### *Blockchain*
-- Ethereum (ERC-20) for tokenization.
-- Solidity for smart contract development.
+- Solidity for smart contract development including Minting,Updation, Dynamic Valuation and more.
 - Web3.js for wallet integration.
+- React.js for web app
 
 ---
 
@@ -132,11 +132,6 @@ The platform integrates blockchain in several key ways:
 - *For Investors*: Browse available startups, leverage AI insights, invest using tokens, and monitor investments through the dashboard.
 - *Token Transfer: Easily transfer tokens between users through **Khatta*, your integrated web3 wallet.
 
----
-
-## *API Documentation*
-
-Detailed API documentation for interacting with the platform’s AI model, blockchain components, and investment tracking can be found [here](https://api-docs.vyapaar-ai.com).
 
 ---
 
@@ -157,17 +152,9 @@ Interested in contributing? We welcome your input! Fork this repo, make your cha
 
 ## *License*
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/vyapaar-ai/license.md) file for more details.
+This project is licensed under the MIT License.
 
 ---
 
-## *Contact*
-
-For support, reach out to us:
-- Email: support@vyapaar.ai
-- Twitter: [@VyapaarAI](https://twitter.com/vyapaarai)
-- Website: [www.vyapaar.ai](https://www.vyapaar.ai)
-
----
 
 This structure integrates the concepts and flows presented in the image, covering both company and user perspectives, AI analysis, and blockchain functionality.
