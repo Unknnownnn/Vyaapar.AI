@@ -45,6 +45,8 @@ The image outlines the flow of information between companies, users, and smart c
 
 ## *How It Works*
 
+![FlowChart](https://github.com/user-attachments/assets/9628977c-a964-4762-9daa-ffbfd5fce786)
+
 ### *Company Side*
 1. *Company Registration*: Startups fill in their relevant details.
 2. *Milestones*: Companies update their progress as they achieve key milestones.
