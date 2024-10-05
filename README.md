@@ -242,7 +242,7 @@ Scikit-learn Model Tools
 - *Data Encryption*: Secure data handling and storage.
 
 ---
-Conclusion
+## *Conclusion*
 
 Vyapaar leverages AI/ML models and blockchain technology to revolutionize startup investments, making them accessible, transparent, and secure for retail investors. By providing a comprehensive risk assessment using cutting-edge models like XGBoost, GANs, and RL, and securing transactions with blockchain, Vyapaar democratizes high-potential investment opportunities, ensuring retail investors can confidently invest in the future of innovation.
 
