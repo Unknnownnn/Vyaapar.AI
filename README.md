@@ -109,7 +109,7 @@ The platform integrates blockchain in several key ways:
 2. *Install dependencies*:
    bash
    npm install
-   pip install -r requirements.txt
+   pip3 install pipreqs
    
 3. *Setup environment variables* for API keys, blockchain access, etc.
    
