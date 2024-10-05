@@ -4,7 +4,7 @@ import CompanyForm from './components/CompanyForm';
 import BoxABI from './Box.json'; // Contract ABI
 import './App.css';
 
-const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
+const contractAddress = 'YOUR_DEPLOYED_ADDRESS';
 
 function App() {
     const [account, setAccount] = useState(null);
