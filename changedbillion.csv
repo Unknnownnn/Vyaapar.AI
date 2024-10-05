@@ -1,0 +1,618 @@
+CompanyName,Headquarters,Employees,Industry,Founded At,Status,Total Funding,Funding Rounds,Number of Acquisitions,FY 2022-23 Revenue,Profit_Loss,Latest Funding Round,FY 2022-23 Expenses,Net Cash Flow From Operations,Score A,Score B,Score C
+1Bridge,Bengaluru,43,Consumer Tech,2016,Active,24.42 Cr,4,1,72.39 Cr,-6.59,Seed,78.98 Cr,-4.64 Cr,,6.4,8
+1K Kirana Bazaar,Gurugram,985,E-commerce,2018,Active,300.62 Cr,4,,224.08 Cr,-182.53,Series B,407.70 Cr,-187.50 Cr,,3.7,8.25
+21K School,Bengaluru,1027,EdTech,2020,Active,38.04 Cr,2,,33.28 Cr,-25.99,Seed,59.28 Cr,-22.89 Cr,7.3,3.6,7.9
+5C Network,Bengaluru,125,Healthcare,2016,Active,83.59 Cr,7,1,18.75 Cr,-19.47,Series B,38.19 Cr,-16.82 Cr,7.67,5.67,7.5
+5ire,Noida,129,"Blockchain,",2021,Active,954.96 Cr,2,,"19,000",-7.80E-05,Series A,"26,800",Undisclosed,9.25,4.83,7.88
+60Plus India,Chennai,9,Healthcare,2021,Active,76.95 Lacs,1,,57.40 Lacs,-0.1273,Seed,70.13 Lacs,Undisclosed,6.5,7,6.63
+6Degree,Mumbai,79,E-commerce,2015,Active,23.40 Cr,10,,12.54 Cr,-3.72,Seed,,Undisclosed,7.75,6.5,7.5
+91Squarefeet,Gurugram,159,"Enterprise Tech,",2019,Active,87.70 Cr,3,,67.90 Cr,-17.52,Series A,80.92 Cr,Undisclosed,8,6.5,7.5
+A23,Delhi,40,Gaming,2005,Active,7.86 Cr,3,,1072.18 Cr,58.02,Seed,975.88 Cr,129.92 Cr,8,8.5,7.75
+Aadyah Aerospace,Bengaluru,88,Space Tech,2016,Active,19.50 Cr,1,,14.80 Cr,3.42,Series A,11.23 Cr,-99.56 Lacs,7.5,8.2,8
+Aakash,Delhi,11626,EdTech,1998,Acquired,1350 Cr,1,,1464.32 Cr,79.53,Private Equity,,145.18 Cr,8.5,7.8,8
+AarogyaAI,Delhi,11,"SaaS,",2019,Active,5.58 Cr,2,,18.41 Lacs,-1.45,Seed,1.64 Cr,Undisclosed,7,4.5,6.5
+ABL Workspace,Delhi,38,Co-Working,2017,Active,30.40 Cr,6,,6.44 Cr,-3.65,Series A,,Nil,6.5,5.5,6
+Absolute,Delhi,324,Biotech,2015,Active,884.58 Cr,4,,361.51 Cr,-37.38,Series B,,-123.71 Cr,9,7.5,8.5
+Accacia,Gurugram,31,Artificial Intelligence/Machine Learning,2022,Active,74.77 Cr,2,,26.44 Lacs,-3.66,pre-Series A,3.93 Cr,Undisclosed,8,5.5,7
+Acko,Bengaluru,1260,Insurance,2016,Active,3336.41 Cr,6,3,1796.81 Cr,-738.55,Series E,2535.36 Cr,-184.89 Cr,9,6.5,8.5
+Actlogica,Hyderabad,18,"Fintech,",2019,Active,5.10 Cr,4,,60.71 Lacs,-1.85,Seed,2.40 Cr,-1.59 Cr,6.5,5,6
+Adda247,Gurugram,701,EdTech,2016,Active,498.96 Cr,6,4,129.65 Cr,-296.09,Series B,425.17 Cr,-33.15 Cr,8.5,6,8
+Addverb,Noida,727,Robotics,2016,Acquired,1458.65 Cr,6,,450.78 Cr,-58.17,Series B,516.44 Cr,-133.09 Cr,7.5,5.5,8
+AdmitKard,Noida,270,EdTech,2015,Active,95.21 Cr,6,,8.69 Cr,-12.37,Series A,21.07 Cr,Undisclosed,6,4,7
+Adonmo,Hyderabad,315,Adtech,2017,Active,406.77 Cr,8,,77.13 Cr,-37.74,Series B,115.33 Cr,Nil,7.5,5,8
+Advantage Club,Gurugram,248,HR Tech,2014,Active,54.73 Cr,6,,322.98 Cr,-1.15,pre-Series A,324.48 Cr,1.52 Cr,7,8,7
+Aeidth Technologies,Noida,6,Automotive Tech,2019,Active,1.47 Cr,1,,19.59 Lacs,-0.3633,Seed,55.93 Lacs,Undisclosed,4.5,3,6
+Aequs,Others,1533,"Space Tech,",2006,Active,762.64 Cr,4,,840.50 Cr,-109.5,Series B,941.60 Cr,9.80 Cr,8,6,8.5
+Aerem,Mumbai,34,Fintech,2020,Active,66.47 Cr,6,,2.14 Cr,-2.83,pre-Series A,4.97 Cr,-12.46 Cr,6.5,4,7
+Aereo,Bengaluru,321,Drone,2013,Active,174.44 Cr,4,,52.55 Cr,2.06,Series B,49.65 Cr,-13.49 Cr,7.5,7,8
+Aero360,Chennai,33,Drone,2017,Active,7.20 Cr,1,,3.59 Cr,0.3235,Seed,3.27 Cr,45.84 Lacs,6,5,6.5
+Aerostrovilos Energy,Chennai,19,Renewable Energy,2017,Active,3.89 Cr,2,,21.18 Lacs,-0.4861,Seed,70.19 Lacs,Nil,5.5,3,6
+Aether,Surat,250,Manufacturing,2013,Listed,983.17 Cr,3,,637.38 Cr,82.49,Post-IPO,,-16.45 Cr,8.5,9,8
+AgNext,Chandigarh,212,Agritech,2016,Active,185.57 Cr,4,,387.71 Cr,-24.31,Series A,411.68 Cr,-24.31 Cr,7.5,6.5,7
+Agnikul,Chennai,189,Space Tech,2017,Active,307.47 Cr,4,,2.86 Cr,-20.23,Series B,23.09 Cr,-26.05 Cr,7,4.5,8
+AGRIM,Gurugram,254,"Agritech,",2020,Active,239.29 Cr,4,,159.04 Cr,-28.32,Series B,187.36 Cr,-29.23 Cr,8.5,7,8
+Agrix,Delhi,16,Agritech,2020,Active,2.44 Cr,3,,4.18 Cr,-0.7971,Seed,5.02 Cr,Nil,5,4,6
+Agrizy,Bengaluru,27,Agritech,2021,Active,153.28 Cr,3,,180.25 Cr,-4.47,Series A,184.72 Cr,-14.09 Cr,8,9,7
+Agrograde,Pune,11,Agritech,2017,Active,1.50 Cr,3,,28.59 Lacs,-0.7178,Seed,,Nil,5,3,6
+Agrostar,Pune,1639,Agritech,2008,Active,903.64 Cr,7,1,263.36 Cr,-141.75,Series E,,-138.63 Cr,9,7,8
+AirAttix,Pune,7,"SaaS,",2020,Active,3.51 Cr,2,,71.68 Lacs,-0.5132,pre-Series A,1.23 Cr,-40.56 Lacs,6,4,5
+Airblack,Gurugram,160,"Beauty & Wellness,",2019,Active,80.02 Cr,3,,9.34 Cr,-20.14,Series B,29.48 Cr,-14.89 Cr,7,5,7
+Akshayakalpa Organic,Bengaluru,198,Food & Beverages,2010,Active,303.42 Cr,9,,194.13 Cr,-36.27,Series C,230.40 Cr,-23.56 Cr,9,8,9
+Akumentis Healthcare,Thane,758,Healthcare,2010,Active,121.60 Cr,1,,408.81 Cr,56.53,Undisclosed,,55.85 Cr,8,9,8
+AlgoBulls,Mumbai,22,Fintech,2019,Active,20.37 Cr,3,,54.53 Cr,-1.85,pre-Series A,56.38 Cr,Undisclosed,7,6,7
+Allen,Kota,7353,EdTech,1988,Active,4588.20 Cr,1,1,2363.66 Cr,428.67,Series A,1788.49 Cr,283.97 Cr,9,10,9
+AlmaBetter,Bengaluru,1423,EdTech,2020,Active,22.38 Cr,1,,18.90 Cr,-16.34,Seed,33.72 Cr,Nil,7,5,8
+Almo,Gurugram,40,E-commerce,2020,Active,17.30 Cr,2,,6.86 Cr,-4.87,Pre-Series A,13.74 Cr,Undisclosed,6,4,6
+Altigreen,Bengaluru,249,Automotive Tech,2013,Active,358.39 Cr,8,,104.49 Cr,-78.52,Series A,183.01 Cr,-200.94 Cr,8,5,8
+Altum Credo,Pune,213,Fintech,2016,Active,543.79 Cr,5,,118.76 Cr,19.98,Series C,,-199.91 Cr,9,8,7
+AltUni,Mumbai,103,EdTech,2013,Active,7.90 Cr,2,,5.78 Cr,-2.33,Seed,9.62 Cr,Undisclosed,6,5,7
+Amaara Herbs,Delhi,13,Food & Beverages,2019,Active,Undisclosed,1,,2.97 Cr,-0.74,Seed,2.95 Cr,Nil,5,4,5
+Amagi,Bengaluru,762,"Media,",2008,Active,2533.82 Cr,9,2,724.71 Cr,-321.26,Series F,1039.58 Cr,-246.83 Cr,9,7,9
+Amaha,Mumbai,157,Healthcare,2015,Active,77.22 Cr,3,,13.81 Cr,-23.41,Series A,37.12 Cr,-30.72 Cr,6,4,7
+Amama,Delhi,23,E-commerce,2022,Active,2.07 Cr,1,,6.27 Cr,-0.3461,Seed,6.73 Cr,Undisclosed,6,5,6
+Amber,Pune,659,Hospitality,2016,Active,184.44 Cr,3,,55.22 Cr,-3.19,Series A,57.39 Cr,-1.55 Cr,8,7,8
+Amikus AI,Bengaluru,4,LegalTech,2021,Active,1.53 Cr,2,,,-0.6023,pre-Seed,60.23 Lacs,Undisclosed,5,4,6
+AMPM,Noida,104,E-commerce,2002,Active,20.62 Cr,2,,26.31 Cr,-0.826,Angel,27.47 Cr,Nil,7,7.5,7
+Anar,Mumbai,109,E-commerce,2019,Shut Down,47.50 Cr,2,,1.43 Cr,-17.32,Seed,18.76 Cr,Nil,3,2,3
+AnKaSumMor,Bengaluru,18,Consumer Tech,2018,Active,17.60 Cr,4,,7.80 Cr,-5.43,pre-Series A,13.24 Cr,-4.03 Cr,6,4,6
+Annapurna Finance,Bhubaneshwar,1988,Fintech,2009,Active,2707.15 Cr,29,,1569.57 Cr,32.72,Secondary,1525.39 Cr,-1367.98 Cr,9,8,9
+ANS Commerce,Gurugram,256,E-commerce,2017,Active,18.60 Cr,3,,39.92 Cr,-58.16,pre-Series A,97.97 Cr,-15.35 Cr,8,5.5,8.5
+Antwalk,Bengaluru,175,EdTech,2019,Active,68.11 Cr,3,,7.29 Lacs,-0.342,Series A,53.39 Lacs,-4.15 Lacs,6,3,6
+Anveshan,Bengaluru,53,"Food & Beverages,",2019,Active,19.98 Cr,3,,31.40 Cr,-7.47,pre-Series A,38.89 Cr,Nil,7,6,7
+Anveya Living,Bengaluru,50,Beauty & Wellness,2018,Acquired,46.36 Cr,6,,46.26 Cr,-7.5,Series A,52.85 Cr,-9.95 Cr,8,7,7
+Apeiron Mobility,Bengaluru,7,Travel Tech,2016,Active,2.19 Cr,3,,8.53 Cr,0.6627,Angel,7.83 Cr,Nil,6,7,5
+Apna,Bengaluru,946,HR Tech,2019,Active,1417.52 Cr,5,,188.11 Cr,-120.3,Series C,308.42 Cr,-136.30 Cr,9,6,9
+Apna Mart,Bengaluru,85,E-commerce,2021,Active,117.18 Cr,3,,32.19 Cr,-21.8,Series A,53.89 Cr,-23.38 Cr,7,5,8
+Apnaklub,Bengaluru,167,E-commerce,2020,Active,190.78 Cr,7,,280.98 Cr,-55.63,Pre-Series B,332.40 Cr,-65.21 Cr,8,6,8
+Applop,Gurugram,7,IT/ ITeS,2015,Active,3.67 Cr,2,,,-0.00035758,Seed,"35,758",Nil,5,3,6
+AppsForBharat,Bengaluru,96,Spiritual Tech,2020,Active,251.07 Cr,3,,6.38 Cr,-44.97,Series B,47.93 Cr,Undisclosed,7,4,8
+Aqgromalin,Chennai,103,Agritech,2020,Active,40.75 Cr,2,,75.93 Cr,-34.43,Seed,,-41.62 Cr,7,6,7
+Aquaconnect,Chennai,84,"Agritech,",2017,Active,255.44 Cr,7,,34.70 Cr,-11.18,pre-Series B,,-18.78 Cr,9,6,8
+AquaExchange,Bhimavaram,17,Aquatech,2020,Active,81.11 Cr,3,,76.85 Cr,-4.87,Series A,81.73 Cr,Undisclosed,8,7,7
+Arrivae,Mumbai,330,Décor,2017,Active,195.84 Cr,4,,43.46 Cr,-27.39,Series B,81.50 Cr,-39 Cr,7,5,6
+Arthum,Noida,20,Fintech,2020,Active,Undisclosed,1,,29.39 Lacs,-0.2521,Pre-Seed,47.79 Lacs,Undisclosed,5,4,6
+Artium Academy,Mumbai,209,EdTech,2020,Active,43.83 Cr,3,,7.49 Cr,-17.73,Series A,25.22 Cr,-15.25 Cr,6,5,7
+Arzooo,Bengaluru,516,E-commerce,2018,Active,703.43 Cr,10,,1118.23 Cr,-62.98,Series B,,-82.53 Cr,9,7,9
+Assert AI,Mumbai,62,SaaS,2018,Active,53.53 Cr,3,,5.92 Cr,-4.59,Series A,10.52 Cr,-4.89 Cr,7,5,7
+Assetplus,Chennai,65,Fintech,2016,Active,31.37 Cr,2,,6.10 Cr,-7.78,Series A,13.88 Cr,-7.87 Cr,6,4,7
+Astro Vision,Kochi,98,Spiritual Tech,1984,Active,Undisclosed,1,,12.62 Cr,-2.98,Seed,,-2.32 Cr,6,6,8
+Astrome,Bengaluru,46,Deeptech,2015,Active,36.43 Cr,7,,47.72 Lacs,-6.67,Series A,,-3.50 Cr,6,4,7
+Astrotalk,Noida,713,Astrology,2017,Active,367.32 Cr,3,,283.97 Cr,8.47,Series A,268.67 Cr,36.08 Cr,9,8,9
+Ather Energy,Bengaluru,2685,Automotive Tech,2013,Active,4871.61 Cr,21,,1789.10 Cr,-1059.7,Series G,,-267.60 Cr,10,7,10
+Atlys,Gurugram,121,Visa booking,2022,Active,298.53 Cr,3,,4.18 Cr,0.3749,Series B,3.70 Cr,12.23 Cr,8,7,8
+Atomberg Technologies,Mumbai,472,"Consumer Tech,",2012,Active,1022.41 Cr,9,,649.04 Cr,-138.35,Series C,787.39 Cr,-100.01 Cr,9,6,9
+Attero,ROORKEE,189,Cleantech,2008,Active,202.15 Cr,3,,288.86 Cr,20.93,Series C,281.19 Cr,10.10 Cr,9,9,9
+AuditCue,Chennai,10,SaaS,2022,Active,12.49 Cr,1,,13.84 Lacs,-0.6858,Seed,82.42 Lacs,-90.38 Lacs,6,3,6
+Aulerth,Gurugram,9,Beauty & Wellness,2021,Active,8.25 Cr,1,,1.02 Cr,-3.3,Seed,4.33 Cr,-6 Cr,6,4,6
+Auric,Delhi,58,"Food & Beverages,",2017,Active,23.21 Cr,5,,17.06 Cr,-8.22,Seed,25.33 Cr,Undisclosed,7,5,7
+AuthBridge,Gurugram,1246,HR Tech,2005,Active,75.29 Cr,6,1,159.65 Cr,-2.85,Series B,160.77 Cr,9.29 Cr,9,8,9
+Automovill,Bengaluru,48,Automotive Tech,2015,Active,10.24 Cr,7,,8.25 Cr,-2.24,pre-Series A,10.84 Cr,Undisclosed,6,5,6
+Auxilo,Mumbai,263,Fintech,2017,Active,1389.92 Cr,9,,367.32 Cr,69.21,Debt Financing,,-1202.12 Cr,9,9,9
+Avail Finance,Bengaluru,185,Fintech,2017,Merged,299.47 Cr,9,,11.90 Cr,-33.9,Series B,45.78 Cr,-20.79 Cr,7,4,7
+Avanti,Bengaluru,65,Fintech,2017,Active,405.91 Cr,3,,113.66 Cr,-81.53,Series B,195.20 Cr,-230.12 Cr,8,5,8
+Avataar,Bengaluru,269,Artificial Intelligence/Machine Learning,2014,Active,414.53 Cr,7,,17.98 Cr,-63.49,Series B,81.41 Cr,-64.72 Cr,8,5,9
+AVIOM India Housing,Delhi,573,Fintech,2016,Active,584.31 Cr,10,,241.90 Cr,16.06,Debt Financing,219.91 Cr,-305.99 Cr,8.7,7.8,8.3
+Avishkaar,Delhi,88,Robotics,2010,Active,10.91 Cr,3,,6.48 Cr,-7.63,Seed,,Nil,6,4,7
+Awaz,Bengaluru,42,HR Tech,2022,Active,95.23 Lacs,1,,,-0.5276,Seed,52.76 Lacs,Undisclosed,5,4,6
+Awfis,Delhi,375,Prop Tech,2015,Active,704.79 Cr,9,,874.80 Cr,-17.56,Series E,,228.39 Cr,9,8,9
+Awiros,Gurugram,68,Artificial Intelligence/Machine Learning,2015,Active,59.57 Cr,2,,14.37 Cr,-1.87,Series A,16.48 Cr,Undisclosed,7,7,8
+Aye Finance,Gurugram,1886,Fintech,2014,Active,2610.11 Cr,19,,643.34 Cr,56.78,Series G,571.94 Cr,-730.13 Cr,9,8.5,8
+Ayu Health,Bengaluru,254,Healthcare,2019,Active,302.13 Cr,5,1,17.47 Cr,-83.73,Series B,101.20 Cr,Undisclosed,7.5,4,7.5
+AyuRythm,Bengaluru,10,Healthcare,2016,Active,6.24 Cr,5,,7.68 Lacs,-1.63,Seed,1.70 Cr,Undisclosed,,,
+Azah,Delhi,5,Personal care,2018,Acquired,2.81 Cr,2,,4.49 Cr,-1.12,Seed,,Nil,6.5,5.5,6.25
+Azani,Bengaluru,28,"Beauty & Wellness,",2017,Active,23.81 Cr,4,,7.03 Cr,-4.36,Series A,,-4.69 Cr,7,4.5,6.75
+Baaz,Bengaluru,26,"E-commerce,",2020,Active,8.52 Cr,5,,96.67 Lacs,-2.04,Seed,3 Cr,-2.14 Cr,5,3.5,5
+Baaz Bikes,Delhi,55,Automotive Tech,2019,Active,81.60 Cr,2,,79.24 Lacs,-4.86,Series A,5.52 Cr,-8.43 Cr,7,4,7
+Baazi Games,Delhi,340,Gaming,2014,Active,76.75 Cr,2,1,233.86 Cr,17.45,Series B,210.34 Cr,15.28 Cr,8,8.5,8.25
+Backspace,Chennai,12,"SaaS,",2020,Active,3.59 Cr,1,,,-0.00040387,Seed,,Nil,5.5,3,5.75
+Bakingo,Gurugram,88,Food & Beverages,2016,Active,133.18 Cr,1,,72.73 Cr,0.6545,Private Equity,71.85 Cr,-3.32 Cr,6.5,6,6
+Bambinos,Bengaluru,108,EdTech,2020,Active,4.09 Cr,2,,4.58 Cr,-0.4341,Seed,5.01 Cr,Undisclosed,4.5,3.25,5.33
+Bambrew,Bengaluru,41,E-commerce,2018,Active,79.20 Cr,3,,44.23 Cr,-18.03,Seed,62.23 Cr,-18.95 Cr,6.5,5,6
+BankBazaar,Chennai,564,Fintech,2008,Active,815.46 Cr,9,,160.22 Cr,-36.71,Series D,196.93 Cr,-27.30 Cr,8,6.5,7.75
+BathStory,Bengaluru,7,Décor,2021,Active,79.85 Lacs,1,,1.36 Cr,-0.3154,Seed,1.68 Cr,Undisclosed,5.5,3.5,5.75
+Battery Smart,Gurugram,205,Automotive Tech,2019,Active,1573.88 Cr,9,,63.55 Cr,-64.51,Series B,128.07 Cr,-84.92 Cr,7.5,4.5,6.83
+Battrixx,Mumbai,387,Automotive Tech,1962,Listed,301 Cr,1,3,614.65 Cr,33.81,Seed,,32.25 Cr,7.75,7.75,7.5
+BatX,Gurugram,43,Cleantech,2020,Active,58.55 Cr,5,,21.90 Cr,0.1175,Pre-Series A,21.78 Cr,8.78 Cr,7,6,7
+Beanly,Delhi,10,Food & Beverages,2021,Active,1.30 Cr,1,,1.66 Cr,-0.0488,Seed,1.72 Cr,Nil,4.5,3.5,5
+Beardo,Ahmedabad,145,Grooming,2015,Acquired,11.21 Cr,3,,95.62 Cr,0.7551,Seed,,-9.52 Cr,6.5,6.5,6.33
+BeatO,Delhi,263,Healthcare,2015,Active,412.76 Cr,10,1,22.76 Cr,-56.28,Series B,79.05 Cr,Undisclosed,8.5,5,7.75
+Bebe Burp,Surat,10,Food & Beverages,2018,Active,11.57 Cr,5,,2.66 Cr,-0.5194,pre-Series A,3.18 Cr,Undisclosed,5.5,3.5,6
+Beco,Mumbai,107,"D2C,",2018,Active,111.67 Cr,3,,24.97 Cr,-3.89,pre-Series B,28.87 Cr,Undisclosed,7.5,6.5,7.25
+BeepKart,Bengaluru,74,Automotive Tech,2020,Active,157.33 Cr,5,,21.86 Cr,-27.88,Series A,47.63 Cr,-34.14 Cr,6.75,4,5.83
+Bellatrix Aerospace,Bengaluru,34,Space Tech,2015,Active,85.78 Cr,3,,69.55 Lacs,-6.31,Series A,5.57 Cr,-7.55 Cr,5.75,3,6.67
+BellaVita,Gurugram,217,Personal care,2018,Active,479.73 Cr,2,2,185.96 Cr,-42.13,Debt Financing,228.45 Cr,-42.01 Cr,7.5,6,6.5
+Bepure,Mumbai,8,Home and kitchen appliances,2016,Active,1.25 Cr,1,,4.32 Cr,-0.1721,Seed,4.49 Cr,Undisclosed,5.5,4.5,5.5
+Bert Labs,Bengaluru,29,IT/ ITeS,2017,Active,10.47 Cr,5,,5.42 Lacs,-0.9182,Angel,96.21 Lacs,-50.06 Lacs,6,3,5.75
+Better Beauty,Delhi,4,Beauty & Wellness,2022,Active,1.58 Cr,1,,9.61 Lacs,-0.4296,Seed,52.57 Lacs,Undisclosed,5,3,5
+BetterPlace,Bengaluru,908,HR Tech,2015,Active,630.28 Cr,8,8,533.92 Cr,-132.01,Series C,665.93 Cr,-125.71 Cr,9,6,8.5
+Bewakoof,Bengaluru,380,E-commerce,2012,Acquired,270.55 Cr,6,,229.43 Cr,-12.74,Series B,241.78 Cr,-53.51 Cr,7.25,6.5,6.83
+BeyondSkool,Mumbai,258,EdTech,2020,Active,14.58 Cr,1,,10.39 Cr,-17.05,Seed,27.45 Cr,-19.05 Cr,5.75,4,6.17
+BGAUSS,Mumbai,94,Automotive Tech,2020,Active,52 Cr,1,,105.21 Cr,-25.84,Series A,131.05 Cr,-59.87 Cr,7.5,6.5,7.75
+Bhanzu,Hyderabad,407,EdTech,2020,Active,135.92 Cr,2,,51.28 Cr,-70.99,Series A,122.42 Cr,-27.59 Cr,6.5,4.25,6.83
+BharatAgri,Bengaluru,247,Agritech,2017,Active,129.91 Cr,7,,3.55 Cr,-28.62,Series A,,-31.29 Cr,6.5,3.25,7
+BharatPe,Delhi,1810,Fintech,2018,Active,5114.67 Cr,13,3,1167.51 Cr,-926.96,Debt Financing,2108.54 Cr,-932.36 Cr,9.5,6.5,9
+BharatX,Bengaluru,18,Fintech,2019,Active,36.67 Cr,2,1,52.64 Lacs,-8.32,Seed,8.85 Cr,Undisclosed,6.5,3,6
+Bibo,Bengaluru,10,Healthcare,2020,Active,3.48 Cr,6,,65.55 Lacs,-0.806,Seed,1.46 Cr,Undisclosed,5.5,2.5,5.25
+Biddano,Pune,76,Healthcare,2016,Active,46.24 Cr,5,,13.56 Cr,-19.41,Series A,32.97 Cr,-14.57 Cr,6.5,4,6.25
+Big Bang Food Tech,Delhi,19,Foodtech,2021,Active,4.82 Cr,1,1,69.78 Lacs,-0.4805,Seed,,Nil,4.75,3,5.17
+BigBasket,Bengaluru,11725,E-commerce,2011,Acquired,7246.12 Cr,19,6,10099.80 Cr,-1415.28,Series G,,-1103.42 Cr,9,6.5,8
+BigHaat,Bengaluru,193,Agritech,2015,Active,218.69 Cr,7,,645.09 Cr,-35.06,Pre-Series C,673.08 Cr,-98.45 Cr,7.25,6,6.67
+Bigspoon,Ahmedabad,74,Foodtech,2019,Active,118.90 Cr,5,,17.50 Cr,-15.02,Series A,,-11.21 Cr,6.75,4.25,6.67
+Bigyellowfish,Chennai,23,SaaS,2018,Active,24.31 Cr,5,,3.53 Cr,-2.96,Seed,7.26 Cr,-86.45 Lacs,6.5,3.5,6
+Bijak,Gurugram,289,Agritech,2019,Active,253.46 Cr,3,,813.48 Cr,-46.11,Series B,859.60 Cr,-142.42 Cr,7.5,6.3,7
+Bijnis,Delhi,555,"B2B,",2015,Active,321.64 Cr,8,,64.50 Cr,-99.57,Series B,164.07 Cr,-93.48 Cr,7.8,6.8,7.5
+Bike Bazaar,Pune,385,Automotive Tech,2017,Active,506.94 Cr,7,,263.03 Cr,0.5975,Debt Financing,,-101.17 Cr,7.2,6.9,7.4
+Billdesk,Mumbai,579,Fintech,2000,Active,1658.16 Cr,5,1,2765.45 Cr,141.91,Series C,2561.53 Cr,-121.63 Cr,8.5,8.2,9
+BillionLoans,Bengaluru,6,Fintech,2016,Active,15.54 Cr,4,,1.36 Cr,-0.638,Seed,2 Cr,-4.93 Cr,5.5,4.5,5.8
+BimaKavach,Bengaluru,22,Fintech,2021,Active,15.96 Cr,1,,55.38 Lacs,-5.14,Seed,,-6.19 Cr,6,5,6.5
+Binocs,Bengaluru,17,Blockchain,2022,Active,32.03 Cr,1,,1.03 Cr,-4.43,Seed,5.47 Cr,Undisclosed,6.5,5.8,6.8
+BiofuelCircle,Pune,38,Biotech,2020,Active,74.64 Cr,4,,10.86 Cr,-6.82,Series A,19.33 Cr,Nil,7,6.5,6.8
+BioPrime,Pune,22,",",2016,Active,16.38 Cr,4,,3.38 Cr,-3.42,Seed,6.71 Cr,Undisclosed,6,5.8,6
+Biryani Blues,Gurugram,121,Foodtech,2011,Active,59.80 Cr,13,,69.14 Cr,-15.42,Series B,83.80 Cr,-1.90 Cr,6.8,6.5,7.3
+Biryani by Kilo,Gurugram,313,Foodtech,2015,Active,416.65 Cr,11,1,221.75 Cr,-100.7,Series C,321.39 Cr,-91 Cr,8,7,7.8
+BizeeBuy,Delhi,13,SaaS,2013,Active,2.90 Cr,1,,5.65 Lacs,-0.8849,Seed,95.93 Lacs,Nil,5,4.5,5.5
+Bizongo,Mumbai,356,E-commerce,2015,Active,1965.31 Cr,14,3,185.01 Cr,-291.57,Series E,476.58 Cr,-646.28 Cr,8.5,6.8,8
+BizzTm,Gurugram,91,E-commerce,2020,Active,10.59 Cr,2,,42.89 Cr,-18.83,Seed,61.73 Cr,-18.04 Cr,6.2,5.8,6.5
+Black Bow Whisky,Delhi,22,Food & Beverages,2012,Active,6.60 Cr,1,,13.42 Cr,-2.26,pre-Series A,15.69 Cr,-4.88 Cr,5.8,5,5.8
+Blackbuck,Bengaluru,3114,Logistics/Supply Chain,2015,Active,2621.29 Cr,13,,723.59 Cr,-290.49,Debt Financing,1013.91 Cr,-124.21 Cr,8.5,6.9,8.2
+BlackLight Studio Works,Noida,49,Gaming,2011,Active,6.85 Cr,1,,7.86 Cr,-0.2343,Seed,8.17 Cr,-76 Lacs,5.8,5.5,6.5
+Blinkit,Gurugram,6712,Quick Commerce,2013,Acquired,4917.17 Cr,11,2,747.70 Cr,-1191.5,Debt Financing,1939.20 Cr,-1210 Cr,9,6.5,9
+BlissClub,Bengaluru,144,E-commerce,2020,Active,156.67 Cr,3,,72.12 Cr,-35.71,Debt Financing,107.84 Cr,-57.42 Cr,7,6.2,7.5
+Bloom Hotels,Delhi,439,Hospitality,2011,Active,362.61 Cr,5,,149.64 Cr,5.8,Series c,143.84 Cr,-19.80 Cr,7.2,6.5,7.3
+Blue Sky Analytics,Gurugram,28,Analytics/Data Management,2019,Active,9.33 Cr,2,,4.13 Cr,-3.14,Seed,7.28 Cr,Nil,6.5,4,6.5
+Blue Tokai Coffee,Delhi,300,Food & Beverages,2012,Active,652.08 Cr,10,,128.72 Cr,-42.98,Series C,165.61 Cr,-39.96 Cr,8.5,5.5,7.75
+BlueLearn,Bengaluru,132,EdTech,2021,Active,31.16 Cr,2,,,-3.09,Seed,3.09 Cr,Nil,7,3,6.5
+BlueRickshaw,Delhi,19,"B2B,",2020,Active,4.13 Cr,3,,18.33 Lacs,-0.9246,Angel,1.11 Cr,-41.96 Lacs,6.2,5.8,5.4
+BlueSemi,Hyderabad,13,Healthcare,2017,Active,4.18 Cr,4,,36.65 Lacs,-0.5299,Seed,,Nil,5.4,5.2,5.6
+Bluestone,Bengaluru,811,E-commerce,2011,Active,2029.70 Cr,12,,1303.49 Cr,-142.23,Series H,,-181.16 Cr,9.2,8.7,8.3
+BluSmart,Gurugram,387,Automotive Tech,2019,Active,1245.25 Cr,11,,70.90 Cr,-215.92,Pre-Series B,286.83 Cr,-211.08 Cr,8.8,7.4,8.2
+Bodhi,Delhi,55,Spiritual Tech,2020,Active,6.95 Cr,2,,4.67 Cr,-1.46,Seed,6.65 Cr,-2.58 Cr,5.6,5.1,5.3
+Bodhi AI,Jaipur,45,EdTech,2017,Active,1.65 Cr,1,1,2.90 Cr,0.2266,Seed,2.61 Cr,Undisclosed,6.8,6.4,6.6
+Boingg,Gurugram,22,E-commerce,2020,Active,6.31 Cr,4,,4.16 Cr,-2.19,Seed,7.13 Cr,Undisclosed,5.2,4.9,5.3
+Bold Care,Mumbai,18,Healthcare,2019,Active,23.43 Cr,2,,31.54 Cr,-15.89,Seed,47.44 Cr,-11.27 Cr,6.4,5.8,6
+Bold Finance,Mumbai,14,Fintech,2021,Active,14.18 Cr,2,,49.14 Lacs,-1.43,Seed,2.36 Cr,Undisclosed,6.1,5.5,5.7
+Bolo Live,Gurugram,46,Social Media,2015,Active,70.62 Cr,5,,8.48 Cr,-7.07,Series B,,Nil,6.5,5.9,6.3
+BookMyShow,Mumbai,1092,Entertainment,2007,Active,1490.20 Cr,4,7,1026.58 Cr,85.11,Series D,940.86 Cr,227.97 Cr,8.5,8.3,8.2
+Bounce,Bengaluru,746,Automotive Tech,2014,Active,1663.27 Cr,11,2,99.10 Cr,-197.16,Undisclosed,297.38 Cr,-113.50 Cr,7.8,7,7.5
+Boutique Spirit,Delhi,79,Food & Beverages,2016,Active,131.16 Cr,8,,80.21 Cr,-18.01,Series A,,-23.79 Cr,6.2,5.9,6.4
+Braingroom,Chennai,19,EdTech,2015,Active,1.50 Cr,1,,30.02 Lacs,-0.311,pre-Seed,60.98 Lacs,Undisclosed,5.4,5.1,5.3
+BrainGymJr,Mumbai,4,EdTech,2021,Active,2.44 Cr,1,,7.16 Lacs,-0.8096,Seed,87.43 Lacs,Undisclosed,4.6,2.1,6.8
+Breathe Well-Being,Delhi,136,Healthcare,2020,Active,47.62 Cr,5,,7.63 Cr,-21.52,Series A,29.19 Cr,-23.48 Cr,,,
+BRIGHTBLU,Mumbai,7,Automotive Tech,2019,Active,13.51 Cr,2,,74.67 Lacs,0.0487,Seed,67.31 Lacs,4.79 Lacs,5.2,6.1,6.7
+BrightChamps,Hyderabad,1231,EdTech,2020,Active,468.18 Cr,1,3,20.61 Cr,-159.53,series A,180.15 Cr,-125.83 Cr,9.4,3.2,7.8
+Briskpe,Mumbai,28,Fintech,2023,Active,41.74 Cr,1,,,-0.00069726,Seed,"69,726",Undisclosed,7.7,2,6.8
+Broker Network,Mumbai,787,Prop Tech,2020,Acquired,282.77 Cr,5,,17.92 Cr,-57.88,Series A,,-58.63 Cr,8.5,3.8,7.1
+BrowserStack,Mumbai,1128,"Enterprise Tech,",2011,Active,1808.72 Cr,2,4,625.33 Cr,114.31,Series B,471.61 Cr,75.24 Cr,10,7.4,8.6
+BugBase,Delhi,24,IT/ ITeS,2021,Active,4.29 Cr,2,,22.97 Lacs,-0.9627,Seed,1.49 Cr,Undisclosed,3.8,2.5,6.5
+BuildNext,Kerala,214,Construction,2015,Active,34.92 Cr,5,,13.89 Cr,-13.71,pre-Series A,,Undisclosed,6.8,4,6.3
+Bullspree,Ahmedabad,24,Gaming,2020,Active,11.82 Cr,4,,2.39 Cr,-11.67,Seed,13.79 Cr,-7.02 Cr,5.1,3.6,6
+Bummer,Ahmedabad,67,"E-commerce,",2020,Active,16.01 Cr,5,,7.83 Cr,-2.94,Seed,10.78 Cr,-2.83 Cr,5.6,4.8,6.3
+Bureau,Mumbai,149,IT/ ITeS,2020,Active,159.61 Cr,3,,32 Cr,-1.86,Series A,33.11 Cr,2.51 Cr,7.9,5.5,7.2
+Burger Singh,Gurugram,121,Foodtech,2013,Active,100.27 Cr,8,,58.92 Cr,-4.42,pre-Series B,63.35 Cr,-5.31 Cr,7.3,5.2,7.4
+Burgerama,Gurugram,41,Foodtech,2018,Active,7.15 Cr,2,,18.84 Cr,-3.88,pre-Series A,22.80 Cr,-4.12 Cr,4.8,4.9,6.9
+Burma Burma,Mumbai,61,Food & Beverages,2013,Active,33.05 Cr,3,,46.52 Cr,-3.64,Series A,50.98 Cr,-5.76 Cr,6.5,5.1,7.2
+Buyofuel,Coimbatore,37,Energy Tech,2020,Active,17.93 Cr,5,,21.81 Cr,-5.05,pre-Series A,26.99 Cr,-5.33 Cr,,,
+Bytebeam,Bengaluru,37,SaaS,2019,Active,25.11 Cr,2,,7.98 Cr,0.558,Seed,7.32 Cr,47.88 Lacs,7.5,6.5,8
+Campus 365,Gurugram,45,EdTech,2016,Active,2.15 Cr,1,,1.75 Cr,-0.9215,Seed,2.66 Cr,Undisclosed,,,
+Canvaloop,Surat,7,E-commerce,2020,Active,1.50 Cr,1,,3.15 Cr,0.0986,Seed,,-87.92 Lacs,5,4.5,6
+CapGrid,Gurugram,53,"B2B,",2020,Active,61.20 Cr,2,,44.33 Cr,-8.39,Series A,52.72 Cr,-11.83 Cr,8,5,7
+Captain Fresh,Bengaluru,544,"Foodtech,",2019,Active,1287.70 Cr,10,2,844.12 Cr,-295.79,Series C,1138.08 Cr,-463.38 Cr,9,3,8.5
+CaratLane,Chennai,2207,Jewellery,2008,Acquired,371.20 Cr,4,,2187.89 Cr,82.08,Series D,2068.54 Cr,-233.58 Cr,9,5,9
+Carbanio,Hyderabad,45,E-commerce,2017,Active,10.70 Cr,3,,3.92 Cr,-10.35,Seed,14.28 Cr,Nil,6,4,6.5
+CARD91,Bengaluru,69,Fintech,2020,Active,106.34 Cr,4,,3.52 Cr,-35.51,Seed,39.03 Cr,Nil,,,
+CarDekho,Jaipur,2243,Used car marketplace,2008,Active,4484.12 Cr,13,7,2408.41 Cr,-565.96,Series E,2921.21 Cr,-580.24 Cr,9.5,3.5,9
+CareerLabs,Bengaluru,151,EdTech,2019,Active,16.16 Cr,1,,9.73 Cr,-0.1869,Seed,,Nil,7,5,7.5
+CARS24,Gurugram,6703,Used car marketplace,2015,Active,9478.43 Cr,13,,5590.47 Cr,-467.76,Series G,6058.23 Cr,-805.06 Cr,,,
+CarTrade,Mumbai,383,Used car marketplace,2006,Listed,2229.14 Cr,10,4,555.22 Cr,19.97,Series H,,15.87 Cr,9,5,9
+CASHe,Mumbai,273,Fintech,2016,Active,588.51 Cr,12,2,577.75 Cr,26.33,Debt Financing,544.10 Cr,-453.90 Cr,8.5,4,8
+Cashflo,Mumbai,108,Fintech,2019,Active,99.02 Cr,2,1,6.73 Cr,-21.52,Series B,28.33 Cr,-17.43 Cr,7.5,5,7.5
+Cashfree,Bengaluru,827,Fintech,2015,Active,321.57 Cr,6,2,616.91 Cr,-133.06,Series B,749.96 Cr,-148.72 Cr,8,4.5,8
+Cashify,Gurugram,1149,E-commerce,2009,Active,1045.26 Cr,10,3,825.47 Cr,-147.97,Series E,973.44 Cr,-225.99 Cr,8.5,4.5,8.5
+Cashinvoice,Mumbai,69,Fintech,2018,Active,38.45 Cr,5,,5.98 Cr,-3.74,Series A,9.78 Cr,-4.83 Cr,7,5.5,7.5
+CashKaro,Gurugram,352,Fintech,2013,Active,235.56 Cr,6,,251.71 Cr,-11.08,Series C,262.80 Cr,-21.03 Cr,8,5.5,7.5
+Castler,Delhi,17,Fintech,2020,Active,60.70 Cr,6,,1.63 Cr,-3.42,pre-Series A,5.05 Cr,-2.31 Cr,7,5,6.5
+CBREX,Mumbai,45,HR Tech,2013,Active,47.94 Cr,13,,5.32 Cr,-4.36,Pre-series A,10.28 Cr,-5.60 Cr,7.5,5,7
+Celcius,Mumbai,60,Logistics/Supply Chain,2020,Active,179.70 Cr,5,,42.67 Cr,-8.1,pre-Series B,50.76 Cr,-18.02 Cr,8,5,7.5
+Celebal Technologies,Jaipur,2141,SaaS,2015,Active,265.30 Cr,3,,106.45 Cr,21.57,Debt Financing,,11.58 Cr,8.5,4.5,8
+CelebritySchool,Mumbai,4,EdTech,2019,Active,1.03 Cr,1,,84.01 Lacs,-0.8089,Seed,1.64 Cr,Undisclosed,5,4,6
+Cercle X,Coimbatore,48,Cleantech,2020,Active,6.77 Cr,2,,42.90 Cr,-2.14,Seed,45.10 Cr,-1.53 Cr,6,5,6.5
+Chaayos,Delhi,643,"Food & Beverages,",2012,Active,733.65 Cr,13,,253.40 Cr,-95.5,Series C,348.90 Cr,-99.48 Cr,8,4.5,7.5
+Chai Point,Bengaluru,405,Food & Beverages,2010,Active,489.01 Cr,12,,206.27 Cr,-70.13,Series C,276.40 Cr,-39.44 Cr,8,4.5,7.5
+Chai Waale,Chennai,24,Food & Beverages,2018,Active,12.27 Cr,3,,15.81 Cr,-1.82,Seed,17.51 Cr,-1.24 Cr,6.5,5,6.5
+Chalo,Mumbai,235,Travel Tech,2014,Active,968.26 Cr,6,2,108.50 Cr,-95.3,Series D,203.80 Cr,-117 Cr,8.5,4.5,8
+Chara,Bengaluru,42,SaaS,2019,Active,46.43 Cr,3,,1.51 Cr,-5.25,Seed,6.77 Cr,Undisclosed,7,5,7
+ChargeBee,Pune,1166,Fintech,2011,Active,3483.07 Cr,9,3,437.82 Cr,37.36,Series H,385.43 Cr,-12.85 Cr,9,5,8.5
+Chargeup,Delhi,31,Automotive Tech,2019,Active,76.18 Cr,3,,4.37 Cr,-8.91,pre-Series A,14.37 Cr,-6.64 Cr,,,
+ChattyBao,Delhi,25,E-commerce,2021,Active,39.63 Cr,1,,1.40 Cr,-2.36,Seed,3.76 Cr,Nil,6.5,3,7
+ChefKart,Gurugram,82,Consumer Tech,2020,Active,18.36 Cr,2,,73.97 Lacs,-12.54,Seed,16.16 Cr,Nil,5.5,2,7
+CheQ,Bengaluru,40,Fintech,2021,Active,132.29 Cr,3,,2.11 Cr,-19.42,Seed,21.60 Cr,-13.56 Cr,9,2,7
+Chingari,Bengaluru,223,Social Media,2018,Active,361.47 Cr,6,,113.11 Cr,-42.5,Series A,155.62 Cr,-26.35 Cr,9.5,3,8
+Chqbook,Gurugram,211,Fintech,2017,Active,94.56 Cr,8,,24.54 Cr,-27.01,Pre-Series B,51.55 Cr,-26.26 Cr,8,3,7
+Chumbak Design,Bengaluru,259,E-commerce,2010,Acquired,249.73 Cr,14,,71.13 Cr,-6.56,Undisclosed,77.69 Cr,-3.97 Cr,7.5,5,8
+CitiusTech,Mumbai,5366,Healthcare,2005,Active,677.10 Cr,2,3,3561.30 Cr,55.57,Series D,2873.27 Cr,393.78 Cr,9.5,9,8
+CityCash,Mumbai,27,Fintech,2017,Active,27 Cr,6,,32.12 Lacs,-6.4,Seed ,6.73 Cr,-5.81 Cr,6,4,7
+CityMall,Gurugram,973,E-commerce,2020,Active,851.54 Cr,5,,380.89 Cr,-144.95,Series C,525.80 Cr,-222.12 Cr,9,2,7
+ClaimBuddy,Gurugram,76,Healthcare,2020,Active,49.38 Cr,3,,6.14 Cr,-0.7103,Series A,6.85 Cr,Undisclosed,7,4,7
+ClassMonitor,Indore,99,EdTech,2016,Active,14.84 Cr,4,,7.77 Cr,0.0194,pre-Series A,7.73 Cr,Undisclosed,5,4,6
+Classplus,Noida,862,EdTech,2018,Active,1197.67 Cr,8,1,264.66 Cr,-110.42,Series D,,-104.20 Cr,9.5,2,7
+Clean Electric,Pune,20,"Automotive Tech,",2016,Active,67.65 Cr,4,,58.51 Lacs,-2.12,Series A,2.69 Cr,-5.69 Cr,7,4,6
+Clear,Bengaluru,1170,"Fintech,",2011,Active,1026.31 Cr,8,6,111.45 Cr,-232.59,Series C,335.91 Cr,-180.27 Cr,9,1,8
+ClearDekho,Ghaziabad,177,E-commerce,2017,Active,102.97 Cr,8,,8.11 Cr,-6.8,Series A,14.92 Cr,-7.12 Cr,7.5,4,7
+Cleartrip,Mumbai,660,Travel Tech,2005,Acquired,311.70 Cr,6,1,96.11 Cr,-683.87,Acquired,779.99 Cr,-387.58 Cr,7,1,7
+Clever Harvey,Mumbai,82,EdTech,2019,Active,15.38 Cr,2,,5.21 Cr,-4.07,Seed,10.49 Cr,Nil,5.5,4,6
+Clinikally,Gurugram,37,Healthcare,2021,Active,25.62 Cr,2,,2.79 Cr,-0.0006161,Seed,,11.69 Lacs,6,5,7
+Clinikk,Bengaluru,195,Healthcare,2016,Active,70.88 Cr,7,,16.88 Cr,-33.15,Series A,50.03 Cr,-31.59 Cr,7,3,7
+CLIRNET,Mumbai,199,"Social Media,",2015,Active,18.77 Cr,9,,7.24 Cr,-4.8,Pre- Series A,12.08 Cr,-4.60 Cr,6.5,7,6
+CloudTailor,Hyderabad,64,E-commerce,2020,Active,9.27 Cr,2,,5.63 Cr,-2.16,Seed,7.86 Cr,Nil,6.5,7,7
+Clove Dental,Delhi,1504,Healthcare,2011,Active,961.57 Cr,2,,240.74 Cr,-39.43,Series E,280.17 Cr,-11.96 Cr,8.5,5.5,8
+Clovia,Noida,261,E-commerce,2012,Acquired,177.61 Cr,4,,295.51 Cr,-80.93,Series B,376.44 Cr,-230.20 Cr,7.5,4,7
+Codebuddy,Kolkata,44,IT/ ITeS,2015,Active,Undisclosed,1,,5.80 Cr,1.26,Seed,,1.04 Cr,6.5,9,6
+Codedamn,Delhi,44,IT/ ITeS,2020,Active,1.27 Cr,1,,1.81 Cr,-0.478,Seed,2.28 Cr,Nil,6.5,7,6
+Codevidhya,Jaipur,61,EdTech,2016,Active,7.46 Cr,3,,3.33 Cr,-2.37,Seed,6.64 Cr,Undisclosed,6.5,7,8
+Coding Invaders,Pune,83,EdTech,2021,Active,5.20 Cr,1,,16.55 Cr,-9.27,Seed,25.97 Cr,-9.07 Cr,6.5,5.5,8
+Coding Ninjas,Delhi,2304,EdTech,2016,Acquired,178.50 Cr,3,,58.22 Cr,-52.63,Series B,,-51.96 Cr,7.5,4,8
+Cogoport,Mumbai,840,Logistics/Supply Chain,2016,Active,446.73 Cr,5,,104.85 Cr,-35.25,Series B,140.11 Cr,89.10 Cr,7.5,5.5,7
+Cogos,Bengaluru,163,Logistics/Supply Chain,2016,Active,38.29 Cr,6,,59.40 Cr,-5.47,Debt Financing,66.66 Cr,-5.05 Cr,9,5.5,7
+CoinDCX,Mumbai,704,"Crypto,",2018,Active,1856.68 Cr,6,1,394.23 Cr,15.46,Series D,,95.43 Cr,8.5,9,6
+CoinSwitch,Bengaluru,519,Fintech,2017,Active,2252.29 Cr,4,,96.35 Cr,-385.4,Series C,481.90 Cr,-150.47 Cr,8.5,4,8
+Cold Love,Delhi,10,Ice cream brand,2019,Active,3.01 Cr,2,,2.48 Cr,-1.52,Seed,4.51 Cr,Undisclosed,6.5,7,6
+CollegeDekho,Gurugram,919,EdTech,2015,Active,494.60 Cr,6,6,171.13 Cr,-129.14,Series B,302.05 Cr,-105.94 Cr,7.5,4,8
+Com Olho,Gurugram,4,Deeptech,2019,Active,2.45 Cr,1,,14.63 Lacs,-0.3745,Seed,52.11 Lacs,Undisclosed,6.5,7,6
+Comet,Bengaluru,25,E-commerce,2023,Active,54.69 Cr,2,,5.89 Lacs,-0.5123,Series A,57.12 Lacs,Undisclosed,7.5,7,7
+CommerceIQ,Bengaluru,493,"E-commerce,",2012,Active,1453.65 Cr,4,1,94.32 Cr,13.34,Series D,76.39 Cr,1.31 Cr,8.5,9,7
+ConnectedH,Gurugram,45,Healthcare,2018,Shut Down,19.66 Cr,4,,1.99 Cr,-6.13,Seed,8.13 Cr,Undisclosed,6.5,5.5,8
+ConsCent,Delhi,41,SaaS,2020,Active,18.05 Cr,2,,30.84 Lacs,-3.12,Convertible Debt,,-2.67 Cr,9,7,7
+Contlo,Bengaluru,34,SaaS,2020,Active,54.50 Cr,3,,5.06 Cr,-0.3652,Series A,5.58 Cr,-1.94 Cr,7.5,7,7
+ConveGenius,Nagpur,118,EdTech,2013,Active,138.08 Cr,9,1,24.72 Cr,1.53,Series A,23.18 Cr,2.26 Cr,7.5,9,8
+Convosight,Delhi,147,SaaS,2019,Active,137.34 Cr,7,,20.45 Cr,-17.89,pre-Series B,,-22.99 Cr,9,5.5,7
+Cora Health,Bengaluru,21,Healthcare,2020,Active,6.53 Cr,2,,32.17 Lacs,-1.35,Seed,2.39 Cr,Nil,6.5,7,8
+Corrit Electric,Noida,9,Automotive Tech,2020,Active,79.99 Cr,4,,2.21 Cr,-0.7859,Series A,3.27 Cr,-12.62 Lacs,7.5,7,6
+Country Delight,Gurugram,870,"D2C,",2015,Active,1499.31 Cr,17,,547.25 Cr,-186.45,Debt Financing,,-134.45 Cr,9,4,6
+Courseplay,Mumbai,28,SaaS,2012,Active,5.39 Cr,2,,3.67 Cr,-1.16,Seed,,6.70 Lacs,,,
+Coutloot,Mumbai,91,E-commerce,2016,Active,122.27 Cr,10,1,97.68 Lacs,-15.71,Series A,16.69 Cr,Undisclosed,7.5,5.5,7
+Coverfox,Mumbai,518,"Fintech,",2013,Active,356.45 Cr,9,,3.14 Cr,-10.4,Series D,,Nil,8.5,5.5,8
+Covvalent,Gurugram,23,Logistics/Supply Chain,2022,Active,35.09 Cr,1,,2.93 Cr,0.1482,Seed,2.73 Cr,1.49 Cr,6.5,9,7
+CRED,Bengaluru,1208,Fintech,2018,Active,6448.32 Cr,9,5,1484.63 Cr,-1347.47,Series F,2831.99 Cr,-912.85 Cr,9,4,8
+CredAble,Mumbai,187,Fintech,2017,Active,557.78 Cr,8,,91.67 Cr,-22.39,Debt Financing,115.36 Cr,-42.66 Cr,9,5.5,8
+Credgenics,Noida,305,"Fintech,",2018,Active,627.43 Cr,4,,90.25 Cr,-12.62,Series B,102.87 Cr,-32.86 Cr,7.5,5.5,8
+Credilio,Mumbai,108,Fintech,2020,Active,36.10 Cr,2,,69.72 Cr,-8.49,pre-Series A,78.21 Cr,-13.17 Cr,9,5.5,8
+Credit Fair,Mumbai,52,Fintech,2018,Active,206.07 Cr,5,,19.70 Cr,0.5762,Debt Financing,16.02 Cr,-17.61 Cr,9,9,8
+CredoPay,Chennai,59,Fintech,2014,Active,55.66 Cr,6,,22.63 Cr,-5.46,Pre- Series A,27.57 Cr,-3.51 Cr,6.5,5.5,8
+CredR,Bengaluru,317,Automotive Tech,2015,Active,274.68 Cr,9,,35.62 Cr,-21.76,Series B,62.86 Cr,Nil,7.5,5.5,6
+CrepDog Crew,Delhi,32,E-commerce,2019,Active,4.86 Cr,1,,12.61 Cr,0.185,Seed,12.37 Cr,Undisclosed,6.5,9,7
+Crib,Bengaluru,44,Prop Tech,2021,Active,23.30 Cr,4,,3.75 Lacs,-0.9023,Seed,,Nil,6.5,7,6
+CrickPe,Delhi,5,Gaming,2022,Active,28.45 Cr,1,,4.32 Lacs,-1.05,Seed,1.45 Cr,Undisclosed,6.5,7,6
+CRIF High Mark,Bengaluru,294,Fintech,2005,Active,55.80 Cr,3,,208 Cr,53.07,Debt Financing,135.51 Cr,48.18 Cr,9,9,8
+CropIn,Bengaluru,236,Agritech,2010,Active,405.81 Cr,15,,30.18 Cr,-83.88,Pre-Series D,114.06 Cr,-74.46 Cr,9,4,6
+CrowdAnalytix,Bengaluru,107,Artificial Intelligence/Machine Learning,2012,Active,307.59 Cr,4,,29.06 Cr,7.58,Series A,22.18 Cr,-23.61 Lacs,7.5,9,6
+Crypso,Bengaluru,34,Fintech,2021,Active,32.14 Cr,2,,4.12 Cr,-4.86,Seed,8.98 Cr,-2.85 Cr,6.5,7,8
+Cube Club,Mumbai,24,Fitness/Nutrition Brand,2020,Active,9.15 Cr,1,,5.75 Cr,-1.51,Seed,7.27 Cr,Undisclosed,6.5,7,6
+Cuemath,Bengaluru,2586,EdTech,2013,Active,942.80 Cr,9,,126.05 Cr,-234.69,Series D,360.38 Cr,-204.94 Cr,8.5,4,8
+CultYvate,Bengaluru,24,Agritech,2016,Active,5 Cr,2,,3.19 Cr,-0.8908,pre-Series A,,Undisclosed,9,7,6
+CureBay,Bhubaneshwar,45,Healthcare,2020,Active,119.09 Cr,3,,1.77 Cr,-15.98,Series A,17.72 Cr,-15.24 Cr,7.5,5.5,8
+Curefoods,Bengaluru,294,Foodtech,2020,Active,1529.11 Cr,10,13,411.55 Cr,-342.73,Debt Financing,754.28 Cr,-181.03 Cr,9,4,6
+Curelink,Gurugram,105,Healthcare,2021,Active,26.61 Cr,1,,1.69 Cr,-10.03,Seed,11.71 Cr,Nil,6.5,5.5,8
+Curelo,Gurugram,78,Healthcare,2022,Active,10.84 Cr,2,,63.52 Lacs,-3.85,pre-Series A,4.49 Cr,Undisclosed,9,7,8
+CureSkin,Bengaluru,135,Healthcare,2017,Active,208.68 Cr,4,,35.89 Cr,-28.07,Series B,63.97 Cr,-24.98 Cr,7.5,5.5,8
+CuriousJr,Gurugram,23,EdTech,2020,Active,7.43 Cr,1,,98.73 Lacs,-2.39,Seed,3.37 Cr,Nil,6.5,7,8
+CUSMAT,Bengaluru,41,EdTech,2016,Active,37.23 Cr,6,,1.85 Cr,-5.38,Seed,7.23 Cr,Nil,6.5,5.5,8
+Cutbox,Pune,6,B2B,2022,Active,1.25 Cr,1,,43.54 Lacs,-0.7028,Seed,1.14 Cr,Undisclosed,6.5,7,6
+Cyborgintell,Bengaluru,25,Artificial Intelligence/Machine Learning,2018,Active,12.08 Cr,2,,4.46 Cr,-1.44,Seed,6 Cr,-66.36 Lacs,6.5,7,6
+Cybrilla,Bengaluru,44,Fintech,2010,Active,29.45 Cr,3,,2.69 Cr,-6.56,Seed,9.52 Cr,-4.15 Cr,7.5,5.5,8
+Cygni Energy,Hyderabad,143,Automotive Tech,2014,Active,213.24 Cr,10,,106.67 Cr,0.2527,Series B,106 Cr,-20.16 Cr,9,9,6
+CynLr,Bengaluru,22,"Robotics,",2019,Active,39.71 Cr,2,,1.13 Cr,-5.03,pre-Series A,6.16 Cr,-7.26 Cr,7.5,5.5,6
+Daalchini,Noida,48,"Foodtech,",2017,Active,48.43 Cr,5,,22.55 Cr,-13.14,Series A,30.33 Cr,-6.88 Cr,6.5,5.5,6
+Dacby,Gurugram,5,Gaming,2021,Active,1.19 Cr,1,,1.41 Cr,-0.2241,Seed,1.64 Cr,Undisclosed,6.5,7,6
+DailyBee,Hyderabad,7,Retail Tech,2021,Active,1.25 Cr,1,,1.51 Cr,0.0261,Seed,1.42 Cr,Undisclosed,7.5,6,7
+DailyNinja,Bengaluru,112,E-commerce,2015,Acquired,54.37 Cr,5,2,2.40 Lacs,-0.6879,Series A,71.20 Lacs,-15.25 Lacs,8.5,5,8
+DailyObjects,Gurugram,92,E-commerce,2012,Active,114.51 Cr,8,,63.24 Cr,0.065,Series B,63.13 Cr,-7.21 Cr,8,6,7.5
+DailyRounds,Bengaluru,330,Healthcare,2014,Acquired,11.20 Cr,2,,566.41 Cr,281.48,Series A,187.57 Cr,324.78 Cr,7,9,8
+DaMENSCH,Bengaluru,156,E-commerce,2018,Active,220.86 Cr,5,,77.57 Cr,-62.34,Series B,139.92 Cr,-71.94 Cr,8.5,5,7.5
+DanaMojo,Bengaluru,13,Fintech,2016,Active,3 Cr,1,,80.29 Lacs,-0.3216,Seed,1.12 Cr,-23.69 Lacs,7,6,7.5
+DarwinBox,Hyderabad,1064,HR Tech,2015,Active,850.49 Cr,7,,249.50 Cr,-154.03,Series D,407.21 Cr,-111.54 Cr,9,5,8.5
+Datoms,Bengaluru,45,IT/ ITeS,2015,Active,15.18 Cr,2,,4.15 Cr,-2.75,Pre-Series A,6.86 Cr,-1.24 Cr,7,6.5,7
+DCGpac,Gurugram,81,E-commerce,2005,Active,20.69 Cr,4,,79.86 Cr,-1.41,pre-Series A,81.61 Cr,-3.54 Cr,7.5,6,7.5
+DealShare,Jaipur,1467,E-commerce,2018,Active,2995.78 Cr,9,,2054.92 Cr,-502.73,Series E,2557.65 Cr,-476.94 Cr,9.5,4,8.5
+Deciml,Pune,15,Fintech,2021,Active,7.73 Cr,2,,"21,300",-2.59,pre-seed,2.58 Cr,Nil,7,7,7
+Deconstruct,Bengaluru,25,"D2C,",2020,Active,18.49 Cr,2,,6.73 Cr,-7.31,Seed,14.04 Cr,Undisclosed,7.5,5.5,7.5
+Deep Eigen,Bhopal,6,EdTech,2019,Active,1.87 Cr,1,,"61,000",-0.0707,Seed,7.77 Lacs,Undisclosed,7,6,7
+Deep Rooted,Bengaluru,101,Agritech,2018,Active,153.54 Cr,5,,81.36 Cr,-47.07,Series A,129.24 Cr,-83.12 Cr,8.5,5,8
+Deepsight AI Labs,Gurugram,15,Artificial Intelligence/Machine Learning,2018,Active,2.43 Cr,2,,2.20 Cr,0.6338,Angel,1.57 Cr,Undisclosed,7,6.5,7.5
+DeHaat,Gurugram,1088,Agritech,2012,Active,1712.38 Cr,10,5,1996.85 Cr,-1092.07,Series E,3091.25 Cr,-296.20 Cr,9,4,8.5
+Delhivery,Gurugram,18600,Logistics/Supply Chain,2011,Listed,11434.20 Cr,13,5,8594.23 Cr,-249.18,Pre-IPO,,472.40 Cr,10,5,9
+Deluxe Recycling,Mumbai,16,Renewable Energy,1999,Active,36.88 Cr,2,,27.46 Cr,-0.9919,Seed,28.28 Cr,Undisclosed,7.5,6,7.5
+Design Cafe,Bengaluru,700,Décor,2016,Active,462.29 Cr,6,,111.96 Cr,-72.1,Series B,184.07 Cr,-49.40 Cr,8.5,5,8
+Designx,Noida,44,IT/ ITeS,2015,Active,2 Cr,1,,1.93 Cr,-0.6212,Seed,2.52 Cr,Undisclosed,7,6,7
+Detect Technologies,Chennai,433,Artificial Intelligence/Machine Learning,2016,Active,356.55 Cr,7,,26.14 Cr,-34.85,Series B,61.05 Cr,-43.40 Cr,8.5,5,8
+Devtron,Gurugram,54,SaaS,2019,Active,100.44 Cr,2,,63.90 Lacs,0.4545,Series A,12.99 Lacs,Nil,8,5,8
+Dezerv,Mumbai,105,Fintech,2021,Active,482.17 Cr,3,,1013.09 Cr,-50.81,Series B,1070.77 Cr,-74.79 Cr,9,5.5,8
+DGV,Bengaluru,60,Fintech,2019,Active,76.59 Cr,3,,85.09 Lacs,-14.1,Series A,14.95 Cr,Nil,8,5.5,8
+Dhiway,Bengaluru,19,"Security Solution,",2019,Active,11.84 Cr,3,,58.44 Lacs,-4.24,pre-seed,,Undisclosed,7.5,6,7.5
+DhiWise,Surat,67,"SaaS,",2021,Active,75.50 Cr,3,,2.06 Cr,-7.52,Series A,9.60 Cr,43.39 Cr,8,6,8
+Dhurina,Gurugram,130,EdTech,2019,Active,9.75 Cr,2,,7.39 Cr,-3.38,Seed,11.84 Cr,Nil,7.5,6,7.5
+Digantara,Bengaluru,39,Space Tech,2020,Active,116.18 Cr,3,,62.43 Lacs,-3.54,Series A,4.28 Cr,Undisclosed,8,6,8
+Digi2L,Mumbai,14,Consumer Tech,2015,Active,2.81 Cr,1,,25.04 Lacs,-4.81,Seed,5.05 Cr,Nil,,,
+Digiboxx,Mumbai,37,SaaS,2020,Active,13 Cr,2,,21.15 Lacs,-5.07,pre-Series A,8.78 Cr,Undisclosed,7.5,6,7.5
+DigiMaze,Mumbai,70,Adtech,2019,Active,5.30 Cr,1,,68.89 Cr,5.78,Seed,61.17 Cr,1.95 Cr,,,
+Digit Insurance,Bengaluru,1487,Fintech,2016,Listed,4067.63 Cr,9,1,8442.74 Cr,181.68,Undisclosed,,1720.47 Cr,,,
+Disprz,Mumbai,304,"EdTech,",2015,Active,387.16 Cr,9,,56.02 Cr,-60.12,Series C,116.11 Cr,-52.88 Cr,,,
+Ditto Insurance,Bengaluru,507,Insurance,2018,Active,34 Cr,2,,15.84 Cr,-1.19,Seed,17.45 Cr,-26.98 Lacs,,,
+DMI Finance,Delhi,419,Fintech,2008,Active,11992.93 Cr,11,2,1662.04 Cr,314.51,Series G,1229.54 Cr,-1680.59 Cr,,,
+D-Nome,Hyderabad,3,Healthcare,2021,Active,12.76 Cr,3,,11.21 Lacs,-0.4015,Seed,51.40 Lacs,Nil,,,
+Doceree,Delhi,143,"Adtech,",2019,Active,495.80 Cr,5,,26.64 Cr,-1.53,Series B,28.17 Cr,-54.92 Lacs,,,
+DocPlix,Lucknow,44,Healthcare,2021,Active,9.08 Cr,3,,22.29 Lacs,-1.56,Series A,1.78 Cr,Nil,,,
+Dogsee Chew,Bengaluru,29,Pet Care,2015,Active,104.45 Cr,4,,98.70 Cr,-26.31,Series A,125.40 Cr,-44.33 Cr,,,
+Done Deal,Mumbai,16,SaaS,2022,Active,6.66 Cr,1,,,-0.1763,Seed,17.63 Lacs,Nil,5,5,6.5
+Dorje Teas,Darjeeling,4,Food & Beverages,2021,Active,24.81 Lacs,1,,1.26 Cr,-0.4997,Angel,1.76 Cr,Nil,4,4.5,5.5
+DotPe,Gurugram,551,E-commerce,2019,Active,715.48 Cr,3,1,36.87 Cr,-71.3,Series B,108.17 Cr,-83.97 Cr,8,3.5,8
+Doubtnut,Gurugram,1169,EdTech,2016,Acquired,378.02 Cr,7,,21.70 Cr,-76.34,Convertible Notes,98.04 Cr,-58.21 Cr,7,3,7.5
+Dozee,Bengaluru,253,Healthcare,2015,Active,235.74 Cr,9,,3.42 Cr,-84.43,Series A,87.85 Cr,-73.12 Cr,6,3,7
+DPDzero,Bengaluru,16,Fintech,2022,Active,31.02 Cr,2,,3.96 Cr,0.2865,Seed,3.58 Cr,15.89 Lacs,5.5,5,6.5
+Dream11,Mumbai,1463,Gaming,2008,Active,11536.89 Cr,4,2,6580.84 Cr,187.83,Series E,5838.73 Cr,1481.04 Cr,,,
+DrinkPrime,Bengaluru,130,Consumer Tech,2016,Active,136.51 Cr,12,,30.10 Cr,-27.38,Debt Financing,57.48 Cr,Undisclosed,6.5,4.5,7
+Drivers4Me,Kolkata,36,Automotive Tech,2018,Active,3 Cr,1,,94.49 Lacs,0.0415,Seed,88.87 Lacs,Undisclosed,,,
+Drivio,Gurugram,26,Fintech,2022,Active,8.28 Cr,1,,1.57 Cr,-0.5199,Seed,2.09 Cr,-88.70 Lacs,5,5,6.5
+Drona Pay,Mumbai,21,Fintech,2021,Active,3.20 Cr,1,,1.35 Cr,-2.55,Seed,3.91 Cr,-1.98 Cr,4.5,4.5,6
+Droom,Gurugram,383,E-commerce,2014,Active,2376.82 Cr,9,1,262.62 Cr,-62.14,Series E,325.36 Cr,-60.71 Cr,8.5,4,8
+Druva,Pune,1236,"SaaS,",2008,Active,3281.64 Cr,10,3,345.73 Cr,30.69,Series H,305.21 Cr,15.68 Cr,9,8.5,8.5
+DSLR Technologies,Bengaluru,44,E-commerce,2021,Active,53.66 Cr,1,,2.66 Cr,-10.04,Seed,12.50 Cr,Nil,5.5,4.5,6.5
+Dunzo,Bengaluru,3201,Quick Commerce,2014,Active,3628.73 Cr,21,,252.60 Cr,-1801.8,Convertible Notes,2054.40 Cr,-1299.20 Cr,8,4,7.5
+Duroflex,Bengaluru,457,E-commerce,1963,Active,614.54 Cr,3,,1070.27 Cr,-15.47,Series C,1074.76 Cr,70.40 Cr,7.5,5.5,7
+DUX Education,Bengaluru,27,EdTech,2020,Active,2 Cr,2,,98.59 Lacs,-0.0109,Seed,99.68 Lacs,Nil,6.5,4.5,6.5
+Dvara SmartGold,Mumbai,31,Fintech,2019,Active,14.93 Cr,1,,18.06 Cr,-7.95,Seed,26.02 Cr,-6.07 Cr,6,5,6.3
+DWIJA FOODS,Mumbai,22,Foodtech,2020,Active,5.11 Cr,1,,11.05 Cr,-0.5642,Seed,11.57 Cr,Nil,6,4.5,6
+Dybo,Bengaluru,4,"SaaS,",2019,Active,1.20 Cr,1,,5.91 Lacs,-0.4291,Seed,49.31 Lacs,Nil,5.5,4,6
+E42,Pune,86,Artificial Intelligence/Machine Learning,2012,Active,40.53 Cr,1,,8.85 Cr,-20.7,Series A,21.67 Cr,-11.63 Cr,7.5,5,7.5
+Early Steps Academy,Bengaluru,33,EdTech,2021,Active,9 Cr,1,,2.26 Cr,-0.8747,Seed,3.13 Cr,Undisclosed,7,4.5,7
+Earth Rhythm,Gurugram,58,"D2C,",2020,Active,69.42 Cr,2,,26.02 Cr,-16.53,Series A,46.13 Cr,Undisclosed,7.5,5,7.5
+Easebuzz,Pune,296,Fintech,2014,Active,29.35 Cr,1,,235.98 Cr,0.94,Seed,234.76 Cr,28.25 Cr,8,6.5,7.5
+EaseMyTrip,Delhi,844,Travel Tech,2008,Listed,84.67 Cr,1,5,609.08 Cr,103.46,Post-IPO,,124.11 Cr,8.5,8,7.75
+Easy to Pitch,Delhi,27,Fintech,2017,Active,95.93 Lacs,1,,59.37 Lacs,-0.1339,Seed,,Nil,6,5,6
+EasyEcom,Bengaluru,112,SaaS,2015,Active,13.46 Cr,3,,7.01 Cr,-4.4,Series A,12.60 Cr,-4.60 Cr,7.5,5.5,7
+EasyRewardz,Gurugram,260,SaaS,2011,Active,81.14 Cr,11,,45.65 Cr,-19.59,Series B,65.25 Cr,-18.30 Cr,7.5,5,6.5
+Eat Better,Jaipur,16,Food & Beverages,2020,Active,5.31 Cr,2,,5.54 Cr,-1.18,Seed,6.72 Cr,Nil,6.5,5.5,6
+Ecom Express,Gurugram,8444,Logistics/Supply Chain,2012,Active,2077.93 Cr,11,,2652.89 Cr,-255.87,Series C,,313.32 Cr,9,6.5,7
+Ecozen,Pune,143,Deeptech,2010,Active,377.46 Cr,10,,295.49 Cr,5.76,Series C,289.56 Cr,-55.66 Cr,8,7.5,7.5
+EdgeGrid,Hyderabad,18,Cleantech,2020,Active,45.48 Cr,1,,1.45 Cr,-4.28,Seed,5.74 Cr,-5.08 Cr,7,5.5,6.5
+Edmingle,Bengaluru,32,EdTech,2016,Active,10.37 Cr,2,,1.59 Cr,-0.4313,Seed,,37.12 Lacs,6.5,4.5,6
+EduFund,Ahmedabad,41,Fintech,2020,Active,41.01 Cr,6,,3.01 Cr,-5.8,pre-Series A,,-10.35 Cr,7.5,5,7
+EduGorilla,Lucknow,184,EdTech,2016,Active,30.64 Cr,5,,11.15 Cr,-0.7616,Seed,12.27 Cr,Nil,7,4.5,6.5
+Edukemy,Bengaluru,56,EdTech,2000,Active,14.78 Cr,1,,7.63 Cr,-4.9,Seed,12.54 Cr,-3.62 Cr,7,4.5,6
+Eduncle,Kota,181,EdTech,2016,Active,7.37 Cr,1,,5.24 Cr,-2.58,Seed,7.81 Cr,Undisclosed,6.5,4,6.5
+Edustoke,Bengaluru,58,EdTech,2016,Active,3 Cr,1,,6.49 Cr,0.4079,Seed,7.40 Cr,-1.36 Cr,6,4.5,6
+Eduvanz,Mumbai,271,Fintech,2016,Active,411.51 Cr,13,1,52.38 Cr,-43.15,Series B,95.52 Cr,-205.27 Cr,8,4,6.5
+Edverse,Gurugram,41,EdTech,2022,Active,5.38 Cr,1,,,-0.00062242,Seed,,Nil,6.5,5,5.5
+Edvizo,Bengaluru,53,EdTech,2017,Active,9.71 Cr,3,,10.45 Lacs,-1.9,Angel,2 Cr,Undisclosed,6.5,4.5,6
+Eeki Foods,Kota,68,"Agritech,",2018,Active,81.38 Cr,6,,20.66 Cr,-4.59,Series A,25 Cr,-3.36 Cr,7.5,4.5,8
+Eggoz Nutrition,Gurugram,102,Agritech,2017,Active,119.51 Cr,7,,55.48 Cr,-32.88,Series B,58.37 Cr,-26.07 Cr,8,3.5,8.5
+Ekank Technologies,Delhi,63,Media,2020,Active,7.50 Cr,1,,3.20 Cr,-4.75,Seed,7.96 Cr,Nil,6,4,7.5
+Ekincare,Hyderabad,259,Healthcare,2014,Active,161.79 Cr,6,,40.87 Cr,-47.27,Series B,88.39 Cr,-50.11 Cr,8,3,9
+ElasticRun,Pune,2777,Logistics/Supply Chain,2016,Active,3409.41 Cr,7,,4851.09 Cr,-618.82,Series E,5469.91 Cr,-493.72 Cr,9.5,3,9
+ElectricPe,Bengaluru,70,Automotive Tech,2021,Active,104.97 Cr,6,,67 Lacs,-11.02,pre-Series A,11.63 Cr,Undisclosed,7.5,4,8
+Electrifuel,Gurugram,28,Manufacturing,2017,Active,1.80 Cr,1,,3.64 Cr,-0.2903,Seed,3.93 Cr,-1.44 Cr,6.5,5,7.5
+Elemential Labs,Mumbai,5,SaaS,2015,Shut Down,6.62 Cr,2,,1.36 Lacs,-1.64,Angel,,Nil,6,4,7.5
+Elevar Sports,Mumbai,18,E-commerce,2017,Active,29.84 Cr,3,,4.75 Cr,-3.51,Series A,8.26 Cr,-5.29 Cr,7,5,8
+Elever,Bengaluru,15,Fintech,2020,Active,5.89 Cr,2,,4.84 Lacs,-5.12,Seed,6.72 Cr,-4.98 Cr,6.5,4.5,7.5
+Eloelo,Bengaluru,106,"Streaming,",2020,Active,298.79 Cr,4,,2.07 Cr,-43.35,Series B,45.43 Cr,Undisclosed,8.5,3.5,8.5
+Emflux Motors,Bengaluru,9,Automotive Tech,2016,Active,5 Cr,4,,45.03 Lacs,-0.2736,Seed,,Nil,6.5,5,8
+Emiza,Mumbai,100,Logistics/Supply Chain,2015,Active,83.95 Cr,6,1,72.66 Cr,5.37,Series B,67.28 Cr,2.83 Cr,7.5,5.5,8.5
+EMotorad,Pune,97,Automotive Tech,2020,Active,213.28 Cr,4,,127.95 Cr,-9.66,Series B,137.79 Cr,1.04 Cr,8,5,8.5
+EndureAir,Noida,43,Drone,2019,Active,13.51 Cr,1,,2.33 Cr,-3.05,Seed,5.39 Cr,-8.22 Cr,7,5,8
+Enercomp,Ahmedabad,52,Drone,2013,Active,4.10 Cr,2,,3.09 Cr,0.1432,Seed,2.95 Cr,-1.50 Cr,6.5,5.5,8
+EnggOnline,Mumbai,35,EdTech,2005,Active,26.58 Cr,1,,89.18 Lacs,-5.31,pre-Series A,6.20 Cr,-2.20 Cr,7.5,4.5,8.5
+Enkash,Mumbai,166,SaaS,2018,Active,174.89 Cr,3,,193.62 Cr,-38.46,Series B,232.08 Cr,-63.81 Cr,8,4,9
+ENSUREDIT,Gurugram,52,Insurance,2019,Active,39.04 Cr,4,,15.95 Cr,-4.21,pre-Series A,17.31 Cr,Nil,7.5,5,8.5
+Entero Healthcare,Faridabad,3111,Healthcare,2018,Active,552.88 Cr,4,,3305.72 Cr,-11.1,Series B,3309.40 Cr,-45.31 Cr,9,4.5,9.5
+Entropik,Bengaluru,204,Artificial Intelligence/Machine Learning,2016,Active,274.69 Cr,5,,47.53 Cr,-27.02,Series B,74.55 Cr,-59.97 Cr,8.5,4,9
+Entuple E-Mobility,Bengaluru,34,Automotive Tech,2019,Active,24.89 Cr,2,,28.90 Lacs,-4.4,Seed,4.68 Cr,-4.69 Cr,,,
+EON Space Labs,Hyderabad,7,Space Tech,2021,Active,4.19 Cr,1,,14.84 Lacs,-0.1384,Seed,28.43 Lacs,Undisclosed,6.5,5.5,8
+Epigamia,Mumbai,211,"Food & Beverages,",2015,Active,597.63 Cr,20,,172.02 Cr,-67.01,Series D,239.03 Cr,-56.51 Cr,8.5,3.5,9
+Epigeneres Biotech,Mumbai,58,"Healthcare,",2008,Active,57.17 Cr,2,,3.48 Cr,-9.72,Series B,14.38 Cr,-13.77 Cr,7.5,4.5,9
+Erekrut,Delhi,260,HR Tech,2021,Active,3.48 Cr,1,,"73,720",-0.8927,pre-seed,89.99 Lacs,Undisclosed,6.5,5.5,8
+Ergos,Bengaluru,303,Fintech,2012,Active,177.91 Cr,8,,224.35 Cr,-23.87,Series B,248.74 Cr,-21.73 Cr,8,4.5,9
+Eruditus,Mumbai,154,EdTech,2010,Active,4329.20 Cr,7,1,3364 Cr,-1049,Debt-Financing,4392 Cr,-686.35 Cr,9,2.5,9.5
+Eske Paris,Mumbai,43,E-commerce,2012,Active,14.99 Cr,2,,8.51 Cr,-2.4,pre-Series A,10.91 Cr,Undisclosed,7,5.5,8.5
+Ethereal Machines,Bengaluru,34,Deeptech,2014,Active,175.33 Cr,3,,2.66 Cr,-4.69,Pre-Series B,8.96 Cr,-4.61 Cr,8,5,8.5
+Euler Motors,Delhi,362,Automotive Tech,2018,Active,987.18 Cr,8,,65.50 Cr,-174.73,Series C,240.14 Cr,-246.52 Cr,,,
+Eupheus Learning,Delhi,206,EdTech,2017,Active,132.22 Cr,7,,103.89 Cr,-19.92,Series C,125.58 Cr,-30.53 Cr,7.5,4,8
+EVage,Chandigarh,68,Logistics/Supply Chain,2014,Active,242.54 Cr,3,,3.23 Cr,-24.25,Seed,27.35 Cr,-53.11 Cr,7,3,6
+EVELABS,Thiruvananthapuram,19,Healthcare,2016,Active,2.68 Cr,5,,66.87 Lacs,-0.3396,Seed,11.29 Lacs,Undisclosed,6.5,5,6
+Even,Bengaluru,242,Healthcare,2020,Active,325.88 Cr,3,,5.29 Cr,-41.2,Series A,47.34 Cr,-42.58 Cr,7.5,3,7
+Evenflow,Bengaluru,59,E-commerce,2021,Active,48.62 Cr,3,8,5.01 Cr,-9.03,pre-Series A,,-11.94 Cr,6,5,7
+Everest Fleet,Mumbai,477,Automotive Tech,2016,Active,619.62 Cr,6,,469.45 Cr,41.22,Series C,414.36 Cr,84.47 Cr,9,8,7.5
+EVhicle,Pune,4,Automotive Tech,2020,Active,Undisclosed,1,,7.53 Lacs,-0.0304,Seed,10.60 Lacs,Undisclosed,,,
+Evify,Surat,14,Logistics/Supply Chain,2021,Active,13.21 Cr,3,,1.06 Cr,-2.26,pre-Series A,3.31 Cr,Undisclosed,6,5,6
+Excess2Sell,Mumbai,13,E-commerce,2016,Active,9.78 Cr,4,,361.84 Cr,-3.27,Angel,365.19 Cr,-66.06 Lacs,,,
+Exotel,Bengaluru,448,"Enterprise Tech,",2011,Active,645.57 Cr,6,3,446.66 Cr,-109.43,Series D,555.53 Cr,-108.43 Cr,8.5,4,8
+Expertrons,Mumbai,525,EdTech,2019,Active,45.81 Cr,4,1,14.44 Cr,-14.16,Series A,33.72 Cr,-15.58 Cr,6.5,5,7
+Exponent Energy,Bengaluru,126,Renewable Energy,2020,Active,380.72 Cr,5,,21.27 Lacs,-2.18,Series B,,-3.56 Cr,8,5,7.5
+Exprs,Hyderabad,24,Logistics/Supply Chain,2018,Active,8 Cr,3,,6.62 Cr,-1.3,Seed,7.93 Cr,Undisclosed,6,5,6
+Exprto,Gurugram,80,EdTech,2021,Active,5 Cr,1,,75.23 Lacs,-0.0956,Seed,83.86 Lacs,Undisclosed,5.5,4,6
+Extramarks,Noida,4329,EdTech,2007,Active,287.23 Cr,3,,373.69 Cr,-330.6,Series C,694.17 Cr,-214.61 Cr,7.5,3,8
+EyeMyEye,Gurugram,120,E-commerce,2021,Active,90.87 Cr,4,,32.45 Cr,-19.36,pre-Series A,51.82 Cr,-11.40 Cr,7,5,7
+Eyestem,Bengaluru,19,Healthcare,2015,Active,76.48 Cr,6,,1.22 Cr,-13.1,Series A,14.32 Cr,-9.27 Cr,6.5,5,6.5
+F5,Delhi,14,Foodtech,2018,Active,13.95 Cr,3,,1.24 Cr,-1.62,Angel,,-1.47 Cr,,,
+Faarms,Bengaluru,82,Agritech,2020,Active,94.60 Cr,2,,22.52 Cr,-3.85,Seed,27.62 Cr,-10.07 Cr,7,5,7
+FabAlley,Noida,118,E-commerce,2012,Active,179.72 Cr,13,,189.79 Cr,-45.52,Series C,235.31 Cr,-42.08 Cr,7.5,4,7.5
+FabHotels,Gurugram,717,Hospitality,2014,Active,476.55 Cr,9,,230.88 Cr,-5.22,Series C,236.10 Cr,-8.35 Cr,8,5,8
+Fabindia,Delhi,2722,E-commerce,1960,Active,297.70 Cr,5,,1668.24 Cr,-121.07,Series B,1730.36 Cr,241.04 Cr,8,5,8
+Fabriclore,Jaipur,55,Logistics/Supply Chain,2016,Active,22.58 Cr,3,,10.32 Cr,-4.19,Seed,14.49 Cr,-4.41 Cr,6.5,5,6.5
+Fae Beauty,Mumbai,21,Beauty & Wellness,2019,Active,10.07 Cr,6,,3.14 Cr,-2.65,Seed,5.79 Cr,Undisclosed,6,5,6
+FairTok,Kerala,15,Social Media,2020,Active,2 Cr,1,,,-0.0414,Seed,4.14 Lacs,Undisclosed,5.5,4,5.5
+Falca,Bengaluru,52,Agritech,2018,Active,25.15 Cr,3,,289.31 Cr,-5.32,Seed,294.66 Cr,-23.10 Cr,6.5,5,7
+FamPay,Bengaluru,164,Fintech,2019,Active,314.33 Cr,3,,17.01 Cr,-119.55,Series A,136.56 Cr,-109.57 Cr,7.5,3,7.5
+FanClash,Gurugram,95,Gaming,2020,Active,389.66 Cr,3,,13.10 Lacs,-2.21,Series B,2.34 Cr,-61.04 Lacs,8,5,7
+Fanztar,Gurugram,13,Social Media,2022,Active,5 Cr,1,,16.82 Lacs,-2.23,Seed,2.40 Cr,Undisclosed,5.5,4,5.5
+FarEye,Noida,647,Logistics/Supply Chain,2013,Active,1105.12 Cr,9,2,166.40 Cr,-243.35,Series E,409.75 Cr,-261.21 Cr,9,3,8.5
+FarMart,Gurugram,372,Agritech,2015,Active,406.90 Cr,8,1,1044.30 Cr,-49.06,Debt Financing,1093.37 Cr,-164.09 Cr,,,
+Fasal,Bengaluru,205,Agritech,2018,Active,153.61 Cr,5,,35.50 Cr,-34.02,Series A,,-3.10 Cr,7,5,7.5
+Fashinza,Gurugram,328,"B2B,",2020,Active,1192.69 Cr,6,,32.54 Cr,-5.35,Series C,,-3.78 Cr,8.5,5,7
+FeetWings,Delhi,5,Healthcare,2019,Active,1.11 Cr,1,,,-0.0394,Seed,5.33 Lacs,Undisclosed,5,4,6
+Fello,Bengaluru,27,Fintech,2021,Active,8.72 Cr,4,,55.55 Lacs,-4.77,Series A,5.33 Cr,Undisclosed,6,4,7
+Fibmold,Mumbai, Undisclosed,Cleantech,2022,Active,105.15 Cr,2,,32.85 Lacs,-0.1193,Series A,44.78 Lacs,Undisclosed,6.5,5,7
+Fibroheal Woundcare,Bengaluru,20,Healthcare,2017,Active,9.88 Cr,6,,2.30 Cr,-1.3,Seed,3.52 Cr,Nil,5.5,4.5,6.5
+Fieldproxy,Chennai,40,SaaS,2016,Active,7.95 Cr,3,,14.40 Lacs,-0.7385,Seed,88.26 Lacs,Undisclosed,5.5,4,6
+FIITJEE,Delhi,3017,EdTech,1992,Active,100 Cr,2,,577.69 Cr,-68.62,Private Equity,630.90 Cr,-8.20 Cr,7,4.5,8
+FinBox,Mumbai,97,Fintech,2015,Active,124.40 Cr,3,,36.20 Cr,-23.09,Series A,59.12 Cr,Undisclosed,7,5,7.5
+Fingpay,Mumbai,39,Fintech,2016,Active,27.99 Cr,2,,143.11 Cr,8.74,Series A,131.81 Cr,19.83 Cr,6,6,7
+Finnable,Bengaluru,242,Fintech,2016,Active,41.60 Cr,2,,100.32 Cr,-19.5,Series A,119.81 Cr,-10.90 Cr,7,5,7.5
+Fino Payments Bank,Mumbai,5186,Fintech,2017,Listed,157.50 Cr,3,,1478.38 Cr,86.22,Series A,,56.78 Cr,8,7,9
+Fintso,Mumbai,69,Fintech,2019,Active,33.97 Cr,2,1,4.65 Cr,-14.65,Series A,19.37 Cr,4.10 Cr,6.5,5,7
+First Games,Noida,105,Gaming,2018,Active,253.99 Cr,2,,495.75 Cr,-22.84,Corporate Round,519.19 Cr,16.20 Cr,7.5,6,8
+FirstCry,Pune,3268,E-commerce,2010,Active,5807.58 Cr,10,3,6575.08 Cr,-321.5,Series E,,-42.07 Cr,9,5,9
+FirstCure Health,Noida,13,Healthcare,2021,Active,2.70 Cr,1,,63.47 Lacs,-0.5564,pre-seed,1.19 Cr,Undisclosed,5,4,6
+Fisdom,Bengaluru,375,Fintech,2015,Active,359.31 Cr,8,1,67.47 Cr,-70.52,Series C,137.99 Cr,-98.29 Cr,8,5,8
+Fitspire,Delhi,29,Fitness/Nutrition Brand,2020,Active,4.94 Cr,4,,3.36 Cr,-1.59,Seed,5.64 Cr,Nil,5.5,4.5,6.5
+Fitterfly,Mumbai,271,Healthcare,2016,Active,118.45 Cr,2,,5.15 Cr,-38.81,Series A,43.96 Cr,-35.06 Cr,6.5,5,7
+Fittr,Pune,476,Fitness/Nutrition Brand,2016,Active,129.10 Cr,4,,86.11 Cr,-41.17,Series A,127.28 Cr,-44.14 Cr,7,5.5,7.5
+Five Star,Chennai,705,Fintech,1984,Listed,5263.71 Cr,19,,2195.10 Cr,835.91,Debt Financing,,-2122.34 Cr,9,7,9
+Fixigo,Delhi,73,Automotive Tech,2018,Active,3.69 Cr,1,,6.22 Cr,-2.5,Seed,9.61 Cr,Nil,5,4.5,6.5
+FlashPrep,Bengaluru,6,EdTech,2020,Active,7.39 Cr,2,,2,-0.6162,Seed,,Nil,6,4.5,7
+Flatheads,Bengaluru,64,"D2C,",2018,Active,19.99 Cr,6,,1.56 Cr,-3.11,Angel,4.68 Cr,-49.10 Lacs,6.5,5,7
+Fleek,Bengaluru,58,Fintech,2021,Active,7.47 Cr,1,,6.17 Cr,-17.24,Seed,23.50 Cr,Nil,6,5,7
+Fleetx,Gurugram,400,Logistics/Supply Chain,2017,Active,195.19 Cr,6,,46.15 Cr,-54.33,Series B,88.22 Cr,Undisclosed,7.5,5.5,8
+FlexC,Gurugram,45,HR Tech,2020,Active,3.57 Cr,1,,1.87 Cr,-1.46,Seed,3.86 Cr,Undisclosed,5.5,4.5,7
+FlexifyMe,Pune,35,Healthcare,2021,Active,20.61 Cr,4,,2.25 Cr,1.68,Seed,3.72 Cr,Undisclosed,6,5,7
+FlexiLoans,Mumbai,227,Fintech,2016,Active,1421.74 Cr,9,1,262.89 Cr,3.03,Series C,,46.75 Cr,8,6,8.5
+Flickstree,Mumbai,52,Adtech,2016,Active,74.13 Cr,6,,46.85 Cr,-3.29,Series A,50.11 Cr,-2.65 Cr,,,
+Flintobox,Chennai,57,EdTech,2013,Active,130.52 Cr,8,,14.87 Cr,-5.6,Pre-Series B,20.96 Cr,-7.71 Cr,7.5,3,7
+Flipkart,Bengaluru,46705,E-commerce,2007,Active,92492.34 Cr,24,21,15044 Cr,-4026.5,Undisclosed,19043 Cr,-2663.10 Cr,9.5,4.5,9
+Flo Mobility,Bengaluru,17,Robotics,2020,Active,3 Cr,1,,32.70 Lacs,-1.24,Seed,1.56 Cr,Undisclosed,5,2.5,6.5
+FloBiz,Bengaluru,367,"Fintech,",2019,Active,324.29 Cr,3,,44.91 Cr,4.96,Series B,38.30 Cr,6.30 Cr,7,4,7
+Flynote,Bengaluru,35,Travel Tech,2017,Active,15.47 Cr,1,,1.70 Cr,-9.94,Seed,11.65 Cr,-9.31 Cr,5.5,3,6
+Foodlink,Mumbai,259,Food & Beverages,2003,Active,206.68 Cr,5,,278.43 Cr,4.19,Series B,273.62 Cr,25 Cr,7,5,7.5
+FoodyBuddy,Bengaluru,4,Foodtech,2015,Active,20.50 Cr,5,,1.69 Cr,1.56,pre-Series A,13.46 Lacs,-1.41 Cr,6,3,6.5
+ForeignAdmits,Bengaluru,53,EdTech,2018,Active,7.12 Cr,3,,78.51 Lacs,-3.03,seed,3.81 Cr,-3.03 Cr,5.5,3,6
+Foxtale,Mumbai,38,E-commerce,2021,Active,187.08 Cr,3,,14.39 Cr,-18.59,Series B,33 Cr,-21.40 Cr,7,3.5,7
+Fraazo,Mumbai,584,Quick Commerce,2018,Active,456.94 Cr,2,,97.06 Cr,-135.1,Series B,231.14 Cr,-132.33 Cr,7.5,4,7.5
+Fractal,Mumbai,4227,Artificial Intelligence/Machine Learning,2000,Active,4914.56 Cr,4,6,2043.70 Cr,194.4,Private Equity,2225.20 Cr,-30.60 Cr,9,7,8.5
+Freecultr,Delhi,41,"B2C,",2019,Active,37.19 Cr,1,,13.61 Cr,-5.68,Series A,19.30 Cr,-9.58 Cr,6,3.5,6
+FREED,Gurugram,114,Fintech,2020,Active,83.75 Cr,2,,8.41 Cr,-4.54,Series A,,52.97 Lacs,6.5,4,6.5
+Freight Tiger,Mumbai,212,Logistics/Supply Chain,2014,Active,276.83 Cr,5,,15.47 Cr,-41.62,Undisclosed,,-43.06 Cr,7,4,7.5
+French Crown,Surat,45,E-commerce,2016,Active,10.60 Cr,2,,44.03 Cr,0.0849,Seed,43.95 Cr,Nil,5.5,3,6
+Frendy,Ahmedabad,112,E-commerce,2019,Active,51.59 Cr,4,,82.59 Cr,-10.61,Debt Financing,96.92 Cr,-14.51 Cr,6,4,6.5
+Fresh From Farm,Delhi,5,Agritech,2021,Active,20.68 Cr,3,,7.71 Cr,-2.82,pre-Series A,10.32 Cr,Undisclosed,5,2.5,6
+FreshMenu,Bengaluru,473,Foodtech,2014,Active,219.54 Cr,6,,73.98 Cr,-10.15,Series C,84.13 Cr,-38.25 Cr,7.5,4,7.5
+FreshToHome,Bengaluru,445,"Foodtech,",2015,Active,2507.47 Cr,8,,129.30 Cr,-409.4,Series D,539 Cr,-495.17 Cr,8,4,8
+Freshworks,Chennai,7812,SaaS,2010,Listed,3322.45 Cr,9,14,2166.49 Cr,219.24,Series H,1876.69 Cr,233.31 Cr,9.5,7.5,9
+Frigate,Chennai,35,"SaaS,",2021,Active,13.60 Cr,2,,1.69 Cr,-0.4265,Seed,2.11 Cr,Undisclosed,3,2.5,4
+FRND,Bengaluru,82,Social Media,2019,Active,63.87 Cr,2,,21.04 Cr,-13.43,Series A,34.47 Cr,Undisclosed,5,3,5.5
+Frogo,Gurugram,19,Food & Beverages,2022,Active,9.57 Cr,1,,69.37 Lacs,-2.87,Seed,4.53 Cr,Undisclosed,2.5,1,3
+Frontier Markets,Jaipur,81,E-commerce,2011,Active,32.96 Cr,6,,7.07 Cr,-23.51,Seed,30.50 Cr,-13.77 Cr,4,2,4.5
+FrontRow,Bengaluru,361,EdTech,2020,Shut Down,132.19 Cr,3,,9.02 Cr,-34.5,Series A,43.40 Cr,Undisclosed,6,2.5,6.5
+FS Life,Gurugram,108,E-commerce,2015,Active,74 Cr,3,,61.19 Cr,-10.04,Series A,71.14 Cr,-17.41 Cr,5.5,3.5,6
+Ftcash,Mumbai,218,Fintech,2015,Active,105.03 Cr,6,,27.80 Cr,-9.68,Series A,38.56 Cr,-32.46 Cr,6,3.5,6
+Fullife Healthcare,Mumbai,81,Healthcare,2009,Active,325.14 Cr,9,,144.97 Cr,-50.97,Angel,,-69.18 Cr,9,4,6.5
+Fundflo,Pune,2,"SaaS,",2021,Active,2.87 Cr,1,,25.44 Lacs,-0.3968,Seed,65.12 Lacs,Undisclosed,2,1.5,3.5
+Funstop,Delhi,11,Gaming,2020,Active,12.49 Cr,1,,88.99 Lacs,0.056,Seed,81.22 Lacs,Nil,,,
+Furlenco,Bengaluru,412,Consumer Tech,2012,Active,2170.27 Cr,24,,156.85 Cr,-125.41,Undisclosed,282.26 Cr,32.90 Cr,,,
+Fuselage Innovations,Kochi,18,Drone,2020,Active,30 Lacs,1,,2.02 Cr,0.165,Seed,1.87 Cr,Undisclosed,,,
+Futwork,Mumbai,169,HR Tech,2016,Active,32.03 Cr,6,,3.87 Cr,-3.78,Series A,7.72 Cr,-3.57 Cr,,,
+Fyle,Bengaluru,128,SaaS,2016,Active,107.87 Cr,5,,18.36 Cr,-22.12,Pre-Series B,40.49 Cr,-14.82 Cr,7,4,7
+Gaana,Noida,162,Musictech,2010,Active,1416.10 Cr,4,1,77.35 Cr,-194.31,Debt Financing,271.67 Cr,-88.31 Cr,8,3,7.5
+GalaxEye,Bengaluru,73,Space Tech,2021,Active,102.42 Cr,5,,12 Lacs,-3.56,Series A,3.68 Cr,-3.90 Cr,7,4.5,6.5
+Galgal,Mumbai,17,Fintech,2021,Active,20.11 Cr,2,,17.74 Lacs,-2.28,Seed,3.35 Cr,-1.03 Cr,5,4.5,5.5
+GameEon Studios,Mumbai,71,Gaming,2013,Active,12.21 Cr,3,,1.02 Cr,-3.49,Seed,4.52 Cr,Undisclosed,6,5.5,6.5
+Gamerji,Ahmedabad,33,Gaming,2020,Active,45.30 Cr,4,,25.36 Lacs,-5.96,pre-Series A,6.21 Cr,-5.33 Cr,6,4.5,6
+Games24x7,Mumbai,895,Gaming,2006,Active,802.72 Cr,8,,2023 Cr,-199.56,Series C,2147.41 Cr,-194.14 Cr,,,
+Gameskraft Technologies,Bengaluru,602,Gaming,2017,Active,1.59 Cr,2,,2732.11 Cr,1061.86,Seed,1300.72 Cr,807.18 Cr,6.5,9,8
+Gamezop,Gurugram,86,Gaming,2015,Active,37.17 Cr,4,,35.03 Cr,2.56,Series A,31.61 Cr,2.51 Cr,6.5,7,7
+Ganit,Chennai,146,Artificial Intelligence/Machine Learning,2017,Active,6.47 Cr,1,,23.83 Cr,1.49,Seed,21.91 Cr,1.15 Cr,5.5,7,6.5
+GarageWorks,Pune,17,Automotive Tech,2015,Active,9.93 Cr,4,,7.45 Cr,-0.7577,Seed,8.20 Cr,Undisclosed,5,4.5,5.5
+Garuda Aerospace,Chennai,273,Drone,2015,Active,229.07 Cr,4,,47.05 Cr,6.16,Bridge,38.64 Cr,Undisclosed,7,7.5,7
+Geekster,Noida,160,EdTech,2020,Active,11.52 Cr,2,,3.05 Cr,-5.26,Seed,8.31 Cr,Nil,5.5,4,6
+Gegadyne Energy,Mumbai,32,"Energy Tech,",2015,Active,38.61 Cr,3,,72.34 Lacs,-6.24,Series A,6.97 Cr,Undisclosed,6,4,6.5
+General Aeronautics,Bengaluru,149,Drone,2016,Active,64.66 Cr,5,,8.28 Cr,-4.22,Series C,13.55 Cr,-29.87 Cr,,,
+Generic Aadhaar,Thane,47,Healthcare,2018,Active,15.30 Cr,2,,11.39 Cr,0.1073,Seed,11.24 Cr,-82.21 Lacs,,,
+GenieMode,Gurugram,159,E-commerce,2021,Active,322.66 Cr,5,,220.43 Cr,-80.98,Series B,301.41 Cr,-121.69 Cr,,,
+GENLEAP,Gurugram,42,EdTech,2021,Active,87 Cr,2,,9.16 Cr,-2.03,pre-Series A,9.41 Cr,4.94 Cr,,,
+Genrobotics,Thiruvananthapuram,107,Robotics,2017,Active,23.20 Cr,3,,22.66 Cr,2.86,Seed,21.53 Cr,Nil,,,
+Genworks,Bengaluru,512,Healthcare,2014,Active,334.74 Cr,8,,446.82 Cr,-44.19,Series B,491.01 Cr,-86.08 Cr,,,
+Get My Parking,Bengaluru,144,"SaaS,",2015,Active,72.50 Cr,4,2,21.80 Cr,-14.98,Series A,36.78 Cr,-11.98 Cr,,,
+Get-A-Way,Mumbai,24,Food & Beverages,2018,Acquired,17.47 Cr,3,,7.89 Cr,-3.04,Angel,10.93 Cr,-3.08 Cr,,,
+GetMega,Bengaluru,58,Gaming,2018,Active,177.22 Cr,3,,31.40 Cr,-27.83,Series B,59.23 Cr,Undisclosed,,,
+GetSetHome,Mumbai,44,"Hospitality,",2014,Active,12.33 Cr,2,,9.74 Cr,-0.2622,Seed,10.02 Cr,19.39 Lacs,,,
+GetSupp,Bengaluru,21,Fitness/Nutrition Brand,2022,Active,9.44 Cr,1,,33.65 Lacs,-1.83,Seed,2.16 Cr,Nil,,,
+GetVantage,Mumbai,68,Fintech,2019,Active,320.11 Cr,4,,11.18 Cr,-7.74,Series A,18.94 Cr,-6.41 Cr,,,
+GetWork,Gurugram,33,HR Tech,2018,Active,8.93 Cr,4,,1.99 Cr,-2.05,Seed,4.02 Cr,Undisclosed,,,
+Giga Fun Studios,Bengaluru,10,Gaming,2022,Active,19.43 Cr,1,,3000,-1.03,Seed,1.06 Cr,Nil,,,
+Gigforce,Gurugram,197,HR Tech,2019,Active,53.74 Cr,4,,64.90 Cr,-19.34,Series A,87.70 Cr,-19.37 Cr,,,
+GIVA,Bengaluru,151,"E-commerce,",2019,Active,441.39 Cr,7,,167.12 Cr,-45.22,Series B,212.35 Cr,-79.07 Cr,,,
+Glamplus,Bengaluru,50,SaaS,2020,Active,22.93 Cr,3,,26.08 Cr,-8.83,pre-Series A,34.95 Cr,-13.57 Cr,,,
+Glamyo Health,Delhi,237,Healthcare,2019,Shut Down,52.47 Cr,4,,11.61 Cr,16.62,Series B,,-13.36 Cr,,,
+Glance,Bengaluru,1073,"Entertainment,",2019,Active,2894.88 Cr,3,3,346.04 Cr,-1067,Series D,1414 Cr,-974 Cr,,,
+GlobalBees,Delhi,172,E-commerce,2021,Active,2330.04 Cr,5,12,20.76 Cr,-59.29,Debt Financing,,-41.80 Cr,,,
+Globalfair,Bengaluru,101,"B2B,",2020,Active,180.54 Cr,2,,63.09 Lacs,-2.01,Series A,2.64 Cr,35.93 Lacs,,,
+Glowroad,Bengaluru,351,E-commerce,2017,Active,220.75 Cr,4,,4900,-0.7692,Series B,76.97 Lacs,Undisclosed,,,
+Go Desi,Bengaluru,83,Food & Beverages,2018,Active,111.65 Cr,4,,26.15 Cr,-9.63,Series B,35.78 Cr,-12.01 Cr,,,
+GoalTeller,Bengaluru,20,Fintech,2020,Active,4.98 Cr,3,,45.80 Lacs,-1.08,pre-Series A,1.53 Cr,Undisclosed,,,
+GOAT Brand Labs,Bengaluru,52,E-commerce,2021,Active,824.82 Cr,5,20,157.60 Cr,-80.28,Debt Financing,237.87 Cr,-75.85 Cr,,,
+GoBolt,Gurugram,109,"SaaS,",2015,Active,208.41 Cr,5,,361.99 Cr,-11.49,Series B,374.08 Cr,-30.07 Cr,,,
+GoEgo Network,Pune,39,Automotive Tech,2019,Active,74.87 Cr,2,,3.54 Cr,-5.78,Series A,11.06 Cr,Undisclosed,,,
+GoKwik,Delhi,210,SaaS,2020,Active,451.49 Cr,4,2,55.52 Cr,-49.19,Angel,105.10 Cr,-186.87 Cr,,,
+Gold Setu,Bengaluru,28,SaaS,2021,Active,17.91 Cr,2,,28.43 Cr,-5.13,Seed,33.57 Cr,Nil,,,
+GoMechanic,Gurugram,924,Automotive Tech,2016,Acquired,485.45 Cr,8,1,309.78 Cr,-147.16,Series C,456.75 Cr,-84.74 Cr,,,
+Goodera,Bengaluru,305,SaaS,2014,Active,205.21 Cr,4,,39.84 Cr,-4.99,Series C,53.78 Cr,-10.77 Cr,,,
+Goodfellows,Mumbai,18,"Social Media,",2021,Active,10 Lacs,2,,8.63 Lacs,-0.1775,Seed,26.32 Lacs,Nil,,,
+GoodMeetings,Bengaluru,12,SaaS,2021,Active,12.62 Cr,1,,40.34 Lacs,-3.67,pre-Series A,4.07 Cr,Undisclosed,,,
+Goofy Tails,Delhi,24,E-commerce,2018,Active,4.64 Cr,1,,5.35 Cr,-2.11,Seed,7.46 Cr,-3.39 Cr,,,
+GoPaani,Indore,59,"SaaS,",2019,Active,4.59 Cr,1,,32.85 Lacs,-2.66,Seed,2.98 Cr,Nil,,,
+GoPllay,Pune,5,Sports,2021,Active,Undisclosed,1,,3.66 Lacs,-0.2445,pre-Seed,28.12 Lacs,Nil,,,
+GoSats,Bengaluru,21,Fintech,2020,Active,37.11 Cr,3,,12.67 Cr,-0.3493,Seed,13.02 Cr,-45.92 Lacs,,,
+Goseeko,Delhi,23,EdTech,2018,Active,5.19 Cr,5,,6.43 Cr,0.4525,Seed,5.81 Cr,Undisclosed,,,
+GramCover,Noida,44,Insurance,2016,Active,71.53 Cr,6,,44.85 Cr,-16.61,Series A,61.53 Cr,-21.17 Cr,,,
+GramFactory,Gurugram,57,E-commerce,2018,Active,37.02 Cr,3,,46.47 Cr,-8.87,Pre-Series A,55.35 Cr,-1.11 Cr,,,
+Gramophone,Gurugram,337,Agritech,2016,Active,166.16 Cr,8,,316.15 Cr,-57.88,Series B,374.04 Cr,-57.41 Cr,,,
+Gravton Motors,Hyderabad,41,Automotive Tech,2017,Active,19.60 Cr,4,,8.95 Lacs,-5.18,Seed,5.27 Cr,-5.30 Cr,,,
+GrayQuest,Mumbai,306,Fintech,2017,Active,76.87 Cr,3,,9.09 Cr,-26.3,Series A,35.40 Cr,-31.47 Cr,,,
+Greenikk,Thiruvananthapuram,16,Logistics/Supply Chain,2020,Active,6.90 Cr,3,,5.55 Cr,-1.12,Seed,6.61 Cr,Undisclosed,,,
+GreenPod Labs,Chennai,23,"Agritech,",2019,Active,4.34 Cr,2,,53.47 Lacs,-1.07,Seed,1.61 Cr,Nil,,,
+GrinnTech,Chennai,49,Renewable Energy,2013,Active,15.03 Cr,1,,5.29 Cr,-6.74,Seed,12.73 Cr,Nil,,,
+Grip Invest,Gurugram,88,Fintech,2020,Active,117.92 Cr,4,,9.27 Cr,-26.72,Series B,35.99 Cr,-35.91 Cr,,,
+GroMo,Gurugram,305,Fintech,2019,Active,93.46 Cr,5,,5020,-0.5862,Seed,58.67 Lacs,Nil,,,
+Growcoms,Kochi,16,Agritech,2020,Active,37.76 Cr,4,,13.76 Cr,-2.14,Series A,15.90 Cr,-3.59 Cr,,,
+Growfitter,Mumbai,26,Healthcare,2016,Active,22.42 Cr,6,,19.40 Lacs,-1.99,Seed,,Nil,,,
+GROWIT,Surat,68,Agritech,2020,Active,2.90 Cr,1,,27.46 Cr,-6.38,Seed,33.93 Cr,-4.78 Cr,,,
+Growpital,Gurugram,65,Fintech,2020,Active,1.47 Cr,1,,57.24 Cr,1.02,Debt Financing,55.48 Cr,Undisclosed,,,
+GrowthX,Bengaluru,187,EdTech,2019,Active,11.85 Cr,1,,6.61 Cr,1.82,Seed,4.05 Cr,3.80 Cr,,,
+Groww,Bengaluru,1406,Fintech,2016,Active,2929.48 Cr,7,2,1427.81 Cr,448.77,Series E,932.91 Cr,426.57 Cr,,,
+Groyyo,Gurugram,111,Deeptech,2021,Active,391.25 Cr,4,,509.83 Cr,-68.12,Debt Financing,577.84 Cr,-213.32 Cr,,,
+Gullak,Ahmedabad,4,Fintech,2020,Active,Undisclosed,1,,,-0.1241,Seed,12.41 Lacs,Undisclosed,,,
+Gupshup,Mumbai,1033,SaaS,2004,Active,2733.29 Cr,8,5,1623.79 Cr,47.35,Series F,1563.66 Cr,-181.33 Cr,,,
+Gurucool,Delhi,109,EdTech,2021,Active,1.14 Cr,1,,1.50 Lacs,-1.26,Seed,1.27 Cr,Nil,,,
+Gyde,Pune,13,SaaS,2019,Active,1.85 Cr,1,,85.25 Lacs,0.0175,Seed,82.73 Lacs,Nil,,,
+Gynoveda,Mumbai,84,Healthcare,2019,Active,82.71 Cr,1,,57.35 Cr,-10.89,Series A,68.25 Cr,-5.41 Cr,,,
+Gytree,Mumbai,13,Healthcare,2022,Active,Undisclosed,1,,4.04 Cr,0.6976,Seed,3.08 Cr,Nil,,,
+Habbit,Delhi,22,Healthcare,2019,Active,7.84 Cr,2,,1.41 Cr,-0.7376,Seed,2.14 Cr,Undisclosed,,,
+Haber,Pune,104,Deeptech,2017,Active,197.78 Cr,3,,82.80 Cr,-36.78,Series B,119.57 Cr,-49.75 Cr,,,
+Hair Originals,Gurugram,33,Beauty & Wellness,2018,Active,26.58 Cr,5,,7.46 Cr,-4.16,pre-Series A,11.62 Cr,Nil,,,
+HALA,Hyderabad,12,Automotive Tech,2019,Active,7.78 Cr,1,,4.89 Cr,-0.2243,Seed,5.18 Cr,Undisclosed,,,
+Hangyo,Mangalore,149,Food & Beverages,2002,Active,242.49 Cr,2,,238.62 Cr,5.6,Series B,229.10 Cr,24.40 Cr,,,
+Happay,Bengaluru,446,SaaS,2012,Acquired,150.68 Cr,9,,106.50 Cr,-65.37,Series B,171.70 Cr,-110.09 Cr,,,
+Happilo,Bengaluru,98,"D2C,",2016,Active,274.05 Cr,2,,303.95 Cr,-108.86,Series B,412.75 Cr,-155.70 Cr,,,
+Happy,Mumbai,41,Fintech,2016,Active,148.99 Cr,4,,8.52 Cr,-10.81,Debt Financing,,-32.34 Cr,,,
+Happy Nature,Delhi,32,Food & Beverages,2018,Active,8.39 Cr,2,,21.14 Cr,-4.2,Pre-Series A,25.54 Cr,Undisclosed,,,
+Hasura,Bengaluru,190,SaaS,2017,Active,1011.39 Cr,5,,"11,400",-0.0006279,Series C,,Undisclosed,,,
+Hatica,Gurugram,50,SaaS,2019,Active,6.75 Cr,1,,"16,150",-0.0134,Seed,,Nil,,,
+HCAH,Noida,451,Healthcare,2012,Active,476.63 Cr,7,4,113.36 Cr,-37.99,Series B,148.24 Cr,-30.84 Cr,,,
+Headfone,Bengaluru,122,"Streaming,",2018,Active,103.81 Cr,5,,2.54 Cr,-14.74,Series C,17.28 Cr,-21.01 Cr,,,
+Heads Up for Tails,Gurugram,371,Pet Care,2008,Active,365.16 Cr,4,,140.67 Cr,-71,Series A,212 Cr,-66.86 Cr,,,
+Healofy,Bengaluru,150,Healthcare,2016,Active,133.32 Cr,9,,18.18 Cr,-35.51,Series B,53.88 Cr,-29.06 Cr,,,
+HealthFab,Bengaluru,7,E-commerce,2019,Active,2.17 Cr,1,,3.30 Cr,-1.32,Seed,4.62 Cr,Undisclosed,,,
+Healthians,Gurugram,1031,Healthcare,2013,Active,548.57 Cr,11,1,235.81 Cr,-129.29,Series C,365.10 Cr,-143.71 Cr,,,
+HealthifyMe,Bengaluru,1819,Healthcare,2012,Active,923.67 Cr,5,,229.71 Cr,-142,Pre-Series D,371.72 Cr,-120.59 Cr,,,
+Healthkart,Gurugram,1117,"Fitness/Nutrition Brand,",2011,Active,1742.92 Cr,11,1,851.85 Cr,-164.71,Series H,1016.55 Cr,-111.55 Cr,,,
+HealthPlix,Bengaluru,345,Healthcare,2014,Active,348.75 Cr,11,,29.58 Cr,-41.94,Series C,71.52 Cr,-43.38 Cr,,,
+Hello English,Jaipur,128,EdTech,2010,Acquired,49 Cr,4,,7.23 Cr,-9.52,Series A,17.79 Cr,-10.74 Cr,6,4,7.5
+Herby Angel,Noida,4,Beauty & Wellness,2023,Acquired,20.83 Cr,1,,37.50 Lacs,-5.12,Seed,5.33 Cr,-5.82 Cr,4.5,2,5.5
+Hero Electric,Gurugram,830,Automotive Tech,1993,Active,425.66 Cr,6,,852.39 Cr,-29.96,Series B,,-261.08 Cr,8.5,4,9
+HFN Mandi,Chandigarh,82,Agritech,2016,Active,31.93 Cr,1,,37.57 Cr,0.596,Venture Round,36.82 Cr,-12.11 Cr,,,
+HighRadius,Hyderabad,4300,SaaS,2006,Active,3422.50 Cr,4,,842.18 Cr,89.62,Series C,735.25 Cr,79.67 Cr,10,8,9
+Hike,Delhi,395,Gaming,2012,Active,1681.88 Cr,8,5,151.96 Cr,-147.34,Series D,299.31 Cr,-94.56 Cr,9.5,2,8
+Hirect,Bengaluru,330,HR Tech,2018,Active,118.50 Cr,1,,32.27 Cr,-2.82,Series B,35.10 Cr,Nil,7,6,7.5
+Hitwicket,Hyderabad,63,Gaming,2010,Active,27.53 Cr,5,,87.23 Lacs,-0.9956,Seed,1.86 Cr,-20.42 Lacs,,,
+Hobit,Faridabad,32,EdTech,2020,Active,6.22 Cr,4,,13.10 Lacs,-0.2368,Seed,,Nil,,,
+HobSpace,Mumbai,141,EdTech,2019,Active,49.08 Cr,4,,9.36 Cr,-22.52,Pre- Series A,31.88 Cr,Undisclosed,,,
+HONO,Gurugram,163,HR Tech,2008,Active,50.16 Cr,3,,75.63 Cr,-8.92,Series A,84.55 Cr,-2.37 Cr,,,
+HROne,Noida,156,HR Tech,2016,Active,65.52 Cr,2,,20.36 Cr,-12.86,pre-Series B,33.21 Cr,Nil,,,
+HUVIAiR,Bengaluru,64,SaaS,2016,Active,26.76 Cr,4,,2.10 Cr,-14.85,Series A,16.96 Cr,-14.15 Cr,,,
